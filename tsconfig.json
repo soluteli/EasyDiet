@@ -9,6 +9,6 @@
       "@shared/*": ["./shared/*"]
     },
   },
-  "include": ["src", "shared", "config", "modern.config.ts", "uno.config.ts"],
+  "include": ["src", "shared", "config", "modern.config.ts", "uno.config.ts", "HOWTOCOOK"],
   "exclude": ["**/node_modules"],
 }
