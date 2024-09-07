@@ -34,7 +34,7 @@ async function generateDishesList() {
     // 生成 dishes list, 包含主 name，desc，level，category
     return {
       name,
-      path: path.replace('HOWTOCOOK', ''),
+      path: path.replace('HOWTOCOOK/dishes', '/all-dishes'),
       catogory,
       poster,
       ...otherProperties,
@@ -56,7 +56,9 @@ fse.writeFileSync(dishesDataPath, JSON.stringify(dishesData, null, 2));
 console.log(chalk.green('✔ Generate dishesData.json successful'));
 
 const sourcePath = path.join(process.cwd(), 'HOWTOCOOK/dishes');
-const publicPath = path.join(process.cwd(), 'config/public/dishes');
+const publicPath = path.join(process.cwd(), 'config/public/all-dishes');
 fse.emptyDirSync(publicPath);
 fse.copySync(sourcePath, publicPath, { overwrite: true });
-console.log(chalk.green('✔ Move dishes to config/public/dishes successful'));
+console.log(
+  chalk.green('✔ Move dishes to config/public/all-dishes successful'),
+);

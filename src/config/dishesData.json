@@ -2,7 +2,7 @@
   "dishes": [
     {
       "name": "咖喱炒蟹",
-      "path": "/dishes/aquatic/咖喱炒蟹.md",
+      "path": "/all-dishes/aquatic/咖喱炒蟹.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -10,7 +10,7 @@
     },
     {
       "name": "微波葱姜黑鳕鱼",
-      "path": "/dishes/aquatic/微波葱姜黑鳕鱼.md",
+      "path": "/all-dishes/aquatic/微波葱姜黑鳕鱼.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 3,
@@ -18,7 +18,7 @@
     },
     {
       "name": "水煮鱼",
-      "path": "/dishes/aquatic/水煮鱼.md",
+      "path": "/all-dishes/aquatic/水煮鱼.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -26,7 +26,7 @@
     },
     {
       "name": "清蒸生蚝",
-      "path": "/dishes/aquatic/清蒸生蚝.md",
+      "path": "/all-dishes/aquatic/清蒸生蚝.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 3,
@@ -34,7 +34,7 @@
     },
     {
       "name": "红烧鱼",
-      "path": "/dishes/aquatic/红烧鱼.md",
+      "path": "/all-dishes/aquatic/红烧鱼.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -42,7 +42,7 @@
     },
     {
       "name": "红烧鱼头",
-      "path": "/dishes/aquatic/红烧鱼头.md",
+      "path": "/all-dishes/aquatic/红烧鱼头.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -50,7 +50,7 @@
     },
     {
       "name": "红烧鲤鱼",
-      "path": "/dishes/aquatic/红烧鲤鱼.md",
+      "path": "/all-dishes/aquatic/红烧鲤鱼.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -58,7 +58,7 @@
     },
     {
       "name": "芥末黄油罗氏虾",
-      "path": "/dishes/aquatic/芥末黄油罗氏虾.md",
+      "path": "/all-dishes/aquatic/芥末黄油罗氏虾.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 3,
@@ -66,7 +66,7 @@
     },
     {
       "name": "吐司果酱",
-      "path": "/dishes/breakfast/吐司果酱.md",
+      "path": "/all-dishes/breakfast/吐司果酱.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 1,
@@ -74,7 +74,7 @@
     },
     {
       "name": "太阳蛋",
-      "path": "/dishes/breakfast/太阳蛋.md",
+      "path": "/all-dishes/breakfast/太阳蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -82,7 +82,7 @@
     },
     {
       "name": "微波炉荷包蛋",
-      "path": "/dishes/breakfast/微波炉荷包蛋.md",
+      "path": "/all-dishes/breakfast/微波炉荷包蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 1,
@@ -90,7 +90,7 @@
     },
     {
       "name": "微波炉蛋糕",
-      "path": "/dishes/breakfast/微波炉蛋糕.md",
+      "path": "/all-dishes/breakfast/微波炉蛋糕.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 1,
@@ -98,7 +98,7 @@
     },
     {
       "name": "桂圆红枣粥",
-      "path": "/dishes/breakfast/桂圆红枣粥.md",
+      "path": "/all-dishes/breakfast/桂圆红枣粥.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -106,7 +106,7 @@
     },
     {
       "name": "水煮玉米",
-      "path": "/dishes/breakfast/水煮玉米.md",
+      "path": "/all-dishes/breakfast/水煮玉米.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -114,7 +114,7 @@
     },
     {
       "name": "溏心蛋",
-      "path": "/dishes/breakfast/溏心蛋.md",
+      "path": "/all-dishes/breakfast/溏心蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 3,
@@ -122,7 +122,7 @@
     },
     {
       "name": "煎饺",
-      "path": "/dishes/breakfast/煎饺.md",
+      "path": "/all-dishes/breakfast/煎饺.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -130,7 +130,7 @@
     },
     {
       "name": "燕麦鸡蛋饼",
-      "path": "/dishes/breakfast/燕麦鸡蛋饼.md",
+      "path": "/all-dishes/breakfast/燕麦鸡蛋饼.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -138,7 +138,7 @@
     },
     {
       "name": "牛奶燕麦",
-      "path": "/dishes/breakfast/牛奶燕麦.md",
+      "path": "/all-dishes/breakfast/牛奶燕麦.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 1,
@@ -146,7 +146,7 @@
     },
     {
       "name": "空气炸锅面包片",
-      "path": "/dishes/breakfast/空气炸锅面包片.md",
+      "path": "/all-dishes/breakfast/空气炸锅面包片.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 1,
@@ -154,7 +154,7 @@
     },
     {
       "name": "美式炒蛋",
-      "path": "/dishes/breakfast/美式炒蛋.md",
+      "path": "/all-dishes/breakfast/美式炒蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -162,7 +162,7 @@
     },
     {
       "name": "茶叶蛋",
-      "path": "/dishes/breakfast/茶叶蛋.md",
+      "path": "/all-dishes/breakfast/茶叶蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 3,
@@ -170,7 +170,7 @@
     },
     {
       "name": "蒸水蛋",
-      "path": "/dishes/breakfast/蒸水蛋.md",
+      "path": "/all-dishes/breakfast/蒸水蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -178,7 +178,7 @@
     },
     {
       "name": "蒸花卷",
-      "path": "/dishes/breakfast/蒸花卷.md",
+      "path": "/all-dishes/breakfast/蒸花卷.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -186,7 +186,7 @@
     },
     {
       "name": "蛋煎糍粑",
-      "path": "/dishes/breakfast/蛋煎糍粑.md",
+      "path": "/all-dishes/breakfast/蛋煎糍粑.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -194,7 +194,7 @@
     },
     {
       "name": "金枪鱼酱三明治",
-      "path": "/dishes/breakfast/金枪鱼酱三明治.md",
+      "path": "/all-dishes/breakfast/金枪鱼酱三明治.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 1,
@@ -202,7 +202,7 @@
     },
     {
       "name": "鸡蛋三明治",
-      "path": "/dishes/breakfast/鸡蛋三明治.md",
+      "path": "/all-dishes/breakfast/鸡蛋三明治.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 2,
@@ -210,7 +210,7 @@
     },
     {
       "name": "油酥",
-      "path": "/dishes/condiment/油酥.md",
+      "path": "/all-dishes/condiment/油酥.md",
       "catogory": "condiment",
       "poster": "",
       "level": 2,
@@ -218,7 +218,7 @@
     },
     {
       "name": "炸串酱料",
-      "path": "/dishes/condiment/炸串酱料.md",
+      "path": "/all-dishes/condiment/炸串酱料.md",
       "catogory": "condiment",
       "poster": "",
       "level": 2,
@@ -226,7 +226,7 @@
     },
     {
       "name": "糖色",
-      "path": "/dishes/condiment/糖色.md",
+      "path": "/all-dishes/condiment/糖色.md",
       "catogory": "condiment",
       "poster": "",
       "level": 4,
@@ -234,7 +234,7 @@
     },
     {
       "name": "糖醋汁",
-      "path": "/dishes/condiment/糖醋汁.md",
+      "path": "/all-dishes/condiment/糖醋汁.md",
       "catogory": "condiment",
       "poster": "",
       "level": 2,
@@ -242,7 +242,7 @@
     },
     {
       "name": "葱油",
-      "path": "/dishes/condiment/葱油.md",
+      "path": "/all-dishes/condiment/葱油.md",
       "catogory": "condiment",
       "poster": "",
       "level": 3,
@@ -250,7 +250,7 @@
     },
     {
       "name": "蒜香酱油",
-      "path": "/dishes/condiment/蒜香酱油.md",
+      "path": "/all-dishes/condiment/蒜香酱油.md",
       "catogory": "condiment",
       "poster": "",
       "level": 2,
@@ -258,7 +258,7 @@
     },
     {
       "name": "B52轰炸机",
-      "path": "/dishes/drink/B52轰炸机.md",
+      "path": "/all-dishes/drink/B52轰炸机.md",
       "catogory": "drink",
       "poster": "",
       "level": 3,
@@ -266,7 +266,7 @@
     },
     {
       "name": "Mojito莫吉托",
-      "path": "/dishes/drink/Mojito莫吉托.md",
+      "path": "/all-dishes/drink/Mojito莫吉托.md",
       "catogory": "drink",
       "poster": "",
       "level": 3,
@@ -274,7 +274,7 @@
     },
     {
       "name": "冬瓜茶",
-      "path": "/dishes/drink/冬瓜茶.md",
+      "path": "/all-dishes/drink/冬瓜茶.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
@@ -282,7 +282,7 @@
     },
     {
       "name": "可乐桶",
-      "path": "/dishes/drink/可乐桶.md",
+      "path": "/all-dishes/drink/可乐桶.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
@@ -290,7 +290,7 @@
     },
     {
       "name": "奶茶",
-      "path": "/dishes/drink/奶茶.md",
+      "path": "/all-dishes/drink/奶茶.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
@@ -298,15 +298,15 @@
     },
     {
       "name": "杨枝甘露",
-      "path": "/dishes/drink/杨枝甘露.md",
+      "path": "/all-dishes/drink/杨枝甘露.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
       "desc": "没用西谷米的原因是家里没有，但是有很多的奇亚籽就拿来代替。而且奇亚籽用泡不用煮，省了很多时间!"
     },
     {
-      "name": "酸梅汤（半成品加工）",
-      "path": "/dishes/drink/酸梅汤（半成品加工）.md",
+      "name": "酸梅汤半成品加工",
+      "path": "/all-dishes/drink/酸梅汤半成品加工.md",
       "catogory": "drink",
       "poster": "",
       "level": 1,
@@ -314,263 +314,15 @@
     },
     {
       "name": "长岛冰茶",
-      "path": "/dishes/drink/长岛冰茶.md",
+      "path": "/all-dishes/drink/长岛冰茶.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
       "desc": "金酒"
     },
     {
-      "name": "乡村啤酒鸭",
-      "path": "/dishes/meat_dish/乡村啤酒鸭.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "将鸭肉与啤酒一同炖煮成菜，使滋补的鸭肉味道更加浓厚，鸭肉不仅入口鲜香，还带有一股啤酒清香。一般初学者只需要 1 小时即可完成。"
-    },
-    {
-      "name": "冷吃兔",
-      "path": "/dishes/meat_dish/冷吃兔.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "兔肉"
-    },
-    {
-      "name": "可乐鸡翅",
-      "path": "/dishes/meat_dish/可乐鸡翅.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "鸡翅中"
-    },
-    {
-      "name": "咕噜肉",
-      "path": "/dishes/meat_dish/咕噜肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "咕噜肉是非常下饭的菜肴，只需一道就可以吃得津津有味，大人小孩都爱吃。而这次做的是简易版菠萝咕噜肉，利用简单的材料就可以在家做出特有风味的咕噜肉 。"
-    },
-    {
-      "name": "商芝肉",
-      "path": "/dishes/meat_dish/商芝肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "此菜色泽红润，质地软嫩，肥而不腻，有浓郁的商芝香味，是陕西省商县特有的风味菜。因商芝属于陕西特产，此菜原料获取难度较大，不易制作。"
-    },
-    {
-      "name": "孜然牛肉",
-      "path": "/dishes/meat_dish/孜然牛肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "牛柳或牛肩肉"
-    },
-    {
-      "name": "小炒肉",
-      "path": "/dishes/meat_dish/小炒肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "五花肉"
-    },
-    {
-      "name": "小米辣炒肉",
-      "path": "/dishes/meat_dish/小米辣炒肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "⚠️注意：不建议清淡饮食的尝试。"
-    },
-    {
-      "name": "小酥肉",
-      "path": "/dishes/meat_dish/小酥肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "去皮猪肉（根据喜好选择肥瘦）"
-    },
-    {
-      "name": "尖椒炒牛肉",
-      "path": "/dishes/meat_dish/尖椒炒牛肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "牛肉"
-    },
-    {
-      "name": "山西过油肉",
-      "path": "/dishes/meat_dish/山西过油肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "过油肉是山西传统名菜，有很多年历史，基本家家都会做。"
-    },
-    {
-      "name": "带把肘子",
-      "path": "/dishes/meat_dish/带把肘子.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "肘肉酥烂不腻，肘皮胶粘，香醇味美，辅佐以葱段，甜面酱，别有一番风味，因脚爪形似把柄，故得其名，是陕西省大荔县名菜。营养价值丰富，但制作难度较高。"
-    },
-    {
-      "name": "意式烤鸡",
-      "path": "/dishes/meat_dish/意式烤鸡.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "鸡腿肉"
-    },
-    {
-      "name": "杀猪菜",
-      "path": "/dishes/meat_dish/杀猪菜.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "杀猪菜的做法 （荤菜）"
-    },
-    {
-      "name": "椒盐排条",
-      "path": "/dishes/meat_dish/椒盐排条.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "椒盐排条是道非常经典的本帮菜，咸、香，也容易制作。"
-    },
-    {
-      "name": "水煮肉片",
-      "path": "/dishes/meat_dish/水煮肉片.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "水煮肉片麻辣鲜香，适合干饭，但是做法稍微有点麻烦。难度主要在肉滑嫩，初学者一般需要 1 - 2 小时完成。干饭人，一切都值~"
-    },
-    {
-      "name": "洋葱炒猪肉",
-      "path": "/dishes/meat_dish/洋葱炒猪肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "咸中带甜，简单上手，一不小心可能让人多吃一碗饭。一般只需 15 分钟即可完成。"
-    },
-    {
-      "name": "烤鸡翅",
-      "path": "/dishes/meat_dish/烤鸡翅.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "鸡翅中"
-    },
-    {
-      "name": "猪肉烩酸菜",
-      "path": "/dishes/meat_dish/猪肉烩酸菜.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "猪肉烩酸菜是一道北方名菜，简单易做。富含蛋白质。一般初学者需要 3 小时完成。"
-    },
-    {
-      "name": "番茄红酱",
-      "path": "/dishes/meat_dish/番茄红酱.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "番茄红酱香浓可口，营养丰富，咱很喜欢。可以作为薄饼、意面~~热干面~~等主食的百搭酱料。有些繁琐，适合有烹饪经验的人尝试。一次吃不完也没有关系，可以冷冻后随时拿出来加热哦。（但是千万要记得吃）"
-    },
-    {
-      "name": "白菜猪肉炖粉条",
-      "path": "/dishes/meat_dish/白菜猪肉炖粉条.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "白菜猪肉炖粉条是一道简单易做的菜。这是一道传统的东北家常菜，以做法简单、味道上乘的特点，在广大东北人民群众中备受喜爱。"
-    },
-    {
-      "name": "糖醋里脊",
-      "path": "/dishes/meat_dish/糖醋里脊.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "糖醋里脊是中国经典传统名菜之一，该菜品以猪里脊肉为主材，配以面粉、淀粉、醋等佐料，酸甜可口，让人食欲大开；该菜品在陕菜、豫菜、浙菜、鲁菜、川菜、淮扬菜、粤菜、闽菜里均有此菜。"
-    },
-    {
-      "name": "肉饼炖蛋",
-      "path": "/dishes/meat_dish/肉饼炖蛋.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "肉饼炖蛋是一道传统的中国家常菜，也是一道非常受欢迎的下饭菜。初学者只需要 20 分钟即可完成。"
-    },
-    {
-      "name": "萝卜炖羊排",
-      "path": "/dishes/meat_dish/萝卜炖羊排.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。"
-    },
-    {
-      "name": "蒜苔炒肉末",
-      "path": "/dishes/meat_dish/蒜苔炒肉末.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 2,
-      "desc": "蒜苔炒肉末是一道简单易做的菜。这是一道北方家常菜，以做法简单、味道上乘的特点，在广大北方人民群众中备受喜爱。"
-    },
-    {
-      "name": "辣椒炒肉",
-      "path": "/dishes/meat_dish/辣椒炒肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "⚠️注意：本道菜需要一定料理基础，不推荐新手尝试。"
-    },
-    {
-      "name": "香干肉丝",
-      "path": "/dishes/meat_dish/香干肉丝.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "猪里脊（可以买超市切好且称重好的肉丝）"
-    },
-    {
-      "name": "鱼香肉丝",
-      "path": "/dishes/meat_dish/鱼香肉丝.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "里脊肉 200g"
-    },
-    {
-      "name": "麻辣香锅",
-      "path": "/dishes/meat_dish/麻辣香锅.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "青菜（油菜、油麦菜、菠菜）"
-    },
-    {
-      "name": "黄焖鸡",
-      "path": "/dishes/meat_dish/黄焖鸡.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "黄焖鸡是一道十分下饭的美食，食材平平无奇又十分容易烹制，一学就会。"
-    },
-    {
-      "name": "黄瓜炒肉",
-      "path": "/dishes/meat_dish/黄瓜炒肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "黄瓜"
-    },
-    {
       "name": "凉皮",
-      "path": "/dishes/semi-finished/凉皮.md",
+      "path": "/all-dishes/semi-finished/凉皮.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 3,
@@ -578,7 +330,7 @@
     },
     {
       "name": "半成品意面",
-      "path": "/dishes/semi-finished/半成品意面.md",
+      "path": "/all-dishes/semi-finished/半成品意面.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 1,
@@ -586,7 +338,7 @@
     },
     {
       "name": "牛油火锅底料",
-      "path": "/dishes/semi-finished/牛油火锅底料.md",
+      "path": "/all-dishes/semi-finished/牛油火锅底料.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 5,
@@ -594,7 +346,7 @@
     },
     {
       "name": "速冻水饺",
-      "path": "/dishes/semi-finished/速冻水饺.md",
+      "path": "/all-dishes/semi-finished/速冻水饺.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 1,
@@ -602,15 +354,263 @@
     },
     {
       "name": "速冻馄饨",
-      "path": "/dishes/semi-finished/速冻馄饨.md",
+      "path": "/all-dishes/semi-finished/速冻馄饨.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 2,
       "desc": "馄饨是一种起源于中国的一种民间传统面食，由其分化而出，有皮薄馅嫩、汤清味鲜的特点。"
     },
     {
+      "name": "乡村啤酒鸭",
+      "path": "/all-dishes/meat_dish/乡村啤酒鸭.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "将鸭肉与啤酒一同炖煮成菜，使滋补的鸭肉味道更加浓厚，鸭肉不仅入口鲜香，还带有一股啤酒清香。一般初学者只需要 1 小时即可完成。"
+    },
+    {
+      "name": "冷吃兔",
+      "path": "/all-dishes/meat_dish/冷吃兔.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "兔肉"
+    },
+    {
+      "name": "可乐鸡翅",
+      "path": "/all-dishes/meat_dish/可乐鸡翅.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "鸡翅中"
+    },
+    {
+      "name": "咕噜肉",
+      "path": "/all-dishes/meat_dish/咕噜肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "咕噜肉是非常下饭的菜肴，只需一道就可以吃得津津有味，大人小孩都爱吃。而这次做的是简易版菠萝咕噜肉，利用简单的材料就可以在家做出特有风味的咕噜肉 。"
+    },
+    {
+      "name": "商芝肉",
+      "path": "/all-dishes/meat_dish/商芝肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "此菜色泽红润，质地软嫩，肥而不腻，有浓郁的商芝香味，是陕西省商县特有的风味菜。因商芝属于陕西特产，此菜原料获取难度较大，不易制作。"
+    },
+    {
+      "name": "孜然牛肉",
+      "path": "/all-dishes/meat_dish/孜然牛肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "牛柳或牛肩肉"
+    },
+    {
+      "name": "小炒肉",
+      "path": "/all-dishes/meat_dish/小炒肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "五花肉"
+    },
+    {
+      "name": "小米辣炒肉",
+      "path": "/all-dishes/meat_dish/小米辣炒肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "⚠️注意：不建议清淡饮食的尝试。"
+    },
+    {
+      "name": "小酥肉",
+      "path": "/all-dishes/meat_dish/小酥肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "去皮猪肉（根据喜好选择肥瘦）"
+    },
+    {
+      "name": "尖椒炒牛肉",
+      "path": "/all-dishes/meat_dish/尖椒炒牛肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "牛肉"
+    },
+    {
+      "name": "山西过油肉",
+      "path": "/all-dishes/meat_dish/山西过油肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "过油肉是山西传统名菜，有很多年历史，基本家家都会做。"
+    },
+    {
+      "name": "带把肘子",
+      "path": "/all-dishes/meat_dish/带把肘子.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "肘肉酥烂不腻，肘皮胶粘，香醇味美，辅佐以葱段，甜面酱，别有一番风味，因脚爪形似把柄，故得其名，是陕西省大荔县名菜。营养价值丰富，但制作难度较高。"
+    },
+    {
+      "name": "意式烤鸡",
+      "path": "/all-dishes/meat_dish/意式烤鸡.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "鸡腿肉"
+    },
+    {
+      "name": "杀猪菜",
+      "path": "/all-dishes/meat_dish/杀猪菜.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "杀猪菜的做法 （荤菜）"
+    },
+    {
+      "name": "椒盐排条",
+      "path": "/all-dishes/meat_dish/椒盐排条.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "椒盐排条是道非常经典的本帮菜，咸、香，也容易制作。"
+    },
+    {
+      "name": "水煮肉片",
+      "path": "/all-dishes/meat_dish/水煮肉片.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "水煮肉片麻辣鲜香，适合干饭，但是做法稍微有点麻烦。难度主要在肉滑嫩，初学者一般需要 1 - 2 小时完成。干饭人，一切都值~"
+    },
+    {
+      "name": "洋葱炒猪肉",
+      "path": "/all-dishes/meat_dish/洋葱炒猪肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "咸中带甜，简单上手，一不小心可能让人多吃一碗饭。一般只需 15 分钟即可完成。"
+    },
+    {
+      "name": "烤鸡翅",
+      "path": "/all-dishes/meat_dish/烤鸡翅.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "鸡翅中"
+    },
+    {
+      "name": "猪肉烩酸菜",
+      "path": "/all-dishes/meat_dish/猪肉烩酸菜.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "猪肉烩酸菜是一道北方名菜，简单易做。富含蛋白质。一般初学者需要 3 小时完成。"
+    },
+    {
+      "name": "番茄红酱",
+      "path": "/all-dishes/meat_dish/番茄红酱.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "番茄红酱香浓可口，营养丰富，咱很喜欢。可以作为薄饼、意面~~热干面~~等主食的百搭酱料。有些繁琐，适合有烹饪经验的人尝试。一次吃不完也没有关系，可以冷冻后随时拿出来加热哦。（但是千万要记得吃）"
+    },
+    {
+      "name": "白菜猪肉炖粉条",
+      "path": "/all-dishes/meat_dish/白菜猪肉炖粉条.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "白菜猪肉炖粉条是一道简单易做的菜。这是一道传统的东北家常菜，以做法简单、味道上乘的特点，在广大东北人民群众中备受喜爱。"
+    },
+    {
+      "name": "糖醋里脊",
+      "path": "/all-dishes/meat_dish/糖醋里脊.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "糖醋里脊是中国经典传统名菜之一，该菜品以猪里脊肉为主材，配以面粉、淀粉、醋等佐料，酸甜可口，让人食欲大开；该菜品在陕菜、豫菜、浙菜、鲁菜、川菜、淮扬菜、粤菜、闽菜里均有此菜。"
+    },
+    {
+      "name": "肉饼炖蛋",
+      "path": "/all-dishes/meat_dish/肉饼炖蛋.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "肉饼炖蛋是一道传统的中国家常菜，也是一道非常受欢迎的下饭菜。初学者只需要 20 分钟即可完成。"
+    },
+    {
+      "name": "萝卜炖羊排",
+      "path": "/all-dishes/meat_dish/萝卜炖羊排.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "萝卜炖羊排是一道常见家常菜，老少皆宜。一般初学者只需要最多 2 小时即可完成。"
+    },
+    {
+      "name": "蒜苔炒肉末",
+      "path": "/all-dishes/meat_dish/蒜苔炒肉末.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 2,
+      "desc": "蒜苔炒肉末是一道简单易做的菜。这是一道北方家常菜，以做法简单、味道上乘的特点，在广大北方人民群众中备受喜爱。"
+    },
+    {
+      "name": "辣椒炒肉",
+      "path": "/all-dishes/meat_dish/辣椒炒肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "⚠️注意：本道菜需要一定料理基础，不推荐新手尝试。"
+    },
+    {
+      "name": "香干肉丝",
+      "path": "/all-dishes/meat_dish/香干肉丝.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "猪里脊（可以买超市切好且称重好的肉丝）"
+    },
+    {
+      "name": "鱼香肉丝",
+      "path": "/all-dishes/meat_dish/鱼香肉丝.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "里脊肉 200g"
+    },
+    {
+      "name": "麻辣香锅",
+      "path": "/all-dishes/meat_dish/麻辣香锅.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "青菜（油菜、油麦菜、菠菜）"
+    },
+    {
+      "name": "黄焖鸡",
+      "path": "/all-dishes/meat_dish/黄焖鸡.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "黄焖鸡是一道十分下饭的美食，食材平平无奇又十分容易烹制，一学就会。"
+    },
+    {
+      "name": "黄瓜炒肉",
+      "path": "/all-dishes/meat_dish/黄瓜炒肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "黄瓜"
+    },
+    {
       "name": "小米粥",
-      "path": "/dishes/soup/小米粥.md",
+      "path": "/all-dishes/soup/小米粥.md",
       "catogory": "soup",
       "poster": "",
       "level": 2,
@@ -618,7 +618,7 @@
     },
     {
       "name": "生汆丸子汤",
-      "path": "/dishes/soup/生汆丸子汤.md",
+      "path": "/all-dishes/soup/生汆丸子汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 4,
@@ -626,7 +626,7 @@
     },
     {
       "name": "番茄牛肉蛋花汤",
-      "path": "/dishes/soup/番茄牛肉蛋花汤.md",
+      "path": "/all-dishes/soup/番茄牛肉蛋花汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 3,
@@ -634,7 +634,7 @@
     },
     {
       "name": "皮蛋瘦肉粥",
-      "path": "/dishes/soup/皮蛋瘦肉粥.md",
+      "path": "/all-dishes/soup/皮蛋瘦肉粥.md",
       "catogory": "soup",
       "poster": "",
       "level": 3,
@@ -642,7 +642,7 @@
     },
     {
       "name": "米粥",
-      "path": "/dishes/soup/米粥.md",
+      "path": "/all-dishes/soup/米粥.md",
       "catogory": "soup",
       "poster": "",
       "level": 2,
@@ -650,7 +650,7 @@
     },
     {
       "name": "紫菜蛋花汤",
-      "path": "/dishes/soup/紫菜蛋花汤.md",
+      "path": "/all-dishes/soup/紫菜蛋花汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 2,
@@ -658,7 +658,7 @@
     },
     {
       "name": "罗宋汤",
-      "path": "/dishes/soup/罗宋汤.md",
+      "path": "/all-dishes/soup/罗宋汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 4,
@@ -666,7 +666,7 @@
     },
     {
       "name": "西红柿鸡蛋汤",
-      "path": "/dishes/soup/西红柿鸡蛋汤.md",
+      "path": "/all-dishes/soup/西红柿鸡蛋汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 2,
@@ -674,7 +674,7 @@
     },
     {
       "name": "金针菇汤",
-      "path": "/dishes/soup/金针菇汤.md",
+      "path": "/all-dishes/soup/金针菇汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 2,
@@ -682,7 +682,7 @@
     },
     {
       "name": "陈皮排骨汤",
-      "path": "/dishes/soup/陈皮排骨汤.md",
+      "path": "/all-dishes/soup/陈皮排骨汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 4,
@@ -690,7 +690,7 @@
     },
     {
       "name": "手工水饺",
-      "path": "/dishes/staple/手工水饺.md",
+      "path": "/all-dishes/staple/手工水饺.md",
       "catogory": "staple",
       "poster": "",
       "level": 5,
@@ -698,7 +698,7 @@
     },
     {
       "name": "汤面",
-      "path": "/dishes/staple/汤面.md",
+      "path": "/all-dishes/staple/汤面.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -706,7 +706,7 @@
     },
     {
       "name": "炒年糕",
-      "path": "/dishes/staple/炒年糕.md",
+      "path": "/all-dishes/staple/炒年糕.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -714,7 +714,7 @@
     },
     {
       "name": "炒方便面",
-      "path": "/dishes/staple/炒方便面.md",
+      "path": "/all-dishes/staple/炒方便面.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -722,7 +722,7 @@
     },
     {
       "name": "炒河粉",
-      "path": "/dishes/staple/炒河粉.md",
+      "path": "/all-dishes/staple/炒河粉.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -730,7 +730,7 @@
     },
     {
       "name": "炒馍",
-      "path": "/dishes/staple/炒馍.md",
+      "path": "/all-dishes/staple/炒馍.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -738,7 +738,7 @@
     },
     {
       "name": "炸酱面",
-      "path": "/dishes/staple/炸酱面.md",
+      "path": "/all-dishes/staple/炸酱面.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -746,7 +746,7 @@
     },
     {
       "name": "热干面",
-      "path": "/dishes/staple/热干面.md",
+      "path": "/all-dishes/staple/热干面.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -754,7 +754,7 @@
     },
     {
       "name": "煮泡面加蛋",
-      "path": "/dishes/staple/煮泡面加蛋.md",
+      "path": "/all-dishes/staple/煮泡面加蛋.md",
       "catogory": "staple",
       "poster": "",
       "level": 1,
@@ -762,7 +762,7 @@
     },
     {
       "name": "老干妈拌面",
-      "path": "/dishes/staple/老干妈拌面.md",
+      "path": "/all-dishes/staple/老干妈拌面.md",
       "catogory": "staple",
       "poster": "",
       "level": 1,
@@ -770,7 +770,7 @@
     },
     {
       "name": "蒸卤面",
-      "path": "/dishes/staple/蒸卤面.md",
+      "path": "/all-dishes/staple/蒸卤面.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -778,7 +778,7 @@
     },
     {
       "name": "蛋炒饭",
-      "path": "/dishes/staple/蛋炒饭.md",
+      "path": "/all-dishes/staple/蛋炒饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -786,7 +786,7 @@
     },
     {
       "name": "酸辣蕨根粉",
-      "path": "/dishes/staple/酸辣蕨根粉.md",
+      "path": "/all-dishes/staple/酸辣蕨根粉.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -794,7 +794,7 @@
     },
     {
       "name": "醪糟小汤圆",
-      "path": "/dishes/staple/醪糟小汤圆.md",
+      "path": "/all-dishes/staple/醪糟小汤圆.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -802,7 +802,7 @@
     },
     {
       "name": "麻油拌面",
-      "path": "/dishes/staple/麻油拌面.md",
+      "path": "/all-dishes/staple/麻油拌面.md",
       "catogory": "staple",
       "poster": "",
       "level": 1,
@@ -810,7 +810,7 @@
     },
     {
       "name": "麻辣减脂荞麦面",
-      "path": "/dishes/staple/麻辣减脂荞麦面.md",
+      "path": "/all-dishes/staple/麻辣减脂荞麦面.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -818,7 +818,7 @@
     },
     {
       "name": "凉拌油麦菜",
-      "path": "/dishes/vegetable_dish/凉拌油麦菜.md",
+      "path": "/all-dishes/vegetable_dish/凉拌油麦菜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 1,
@@ -826,7 +826,7 @@
     },
     {
       "name": "凉拌黄瓜",
-      "path": "/dishes/vegetable_dish/凉拌黄瓜.md",
+      "path": "/all-dishes/vegetable_dish/凉拌黄瓜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 1,
@@ -834,7 +834,7 @@
     },
     {
       "name": "地三鲜",
-      "path": "/dishes/vegetable_dish/地三鲜.md",
+      "path": "/all-dishes/vegetable_dish/地三鲜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -842,7 +842,7 @@
     },
     {
       "name": "水油焖蔬菜",
-      "path": "/dishes/vegetable_dish/水油焖蔬菜.md",
+      "path": "/all-dishes/vegetable_dish/水油焖蔬菜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -850,7 +850,7 @@
     },
     {
       "name": "炒茄子",
-      "path": "/dishes/vegetable_dish/炒茄子.md",
+      "path": "/all-dishes/vegetable_dish/炒茄子.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -858,7 +858,7 @@
     },
     {
       "name": "炒青菜",
-      "path": "/dishes/vegetable_dish/炒青菜.md",
+      "path": "/all-dishes/vegetable_dish/炒青菜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -866,7 +866,7 @@
     },
     {
       "name": "素炒豆角",
-      "path": "/dishes/vegetable_dish/素炒豆角.md",
+      "path": "/all-dishes/vegetable_dish/素炒豆角.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -874,7 +874,7 @@
     },
     {
       "name": "红烧茄子",
-      "path": "/dishes/vegetable_dish/红烧茄子.md",
+      "path": "/all-dishes/vegetable_dish/红烧茄子.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 4,
@@ -882,7 +882,7 @@
     },
     {
       "name": "脆皮豆腐",
-      "path": "/dishes/vegetable_dish/脆皮豆腐.md",
+      "path": "/all-dishes/vegetable_dish/脆皮豆腐.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -890,7 +890,7 @@
     },
     {
       "name": "茄子炖土豆",
-      "path": "/dishes/vegetable_dish/茄子炖土豆.md",
+      "path": "/all-dishes/vegetable_dish/茄子炖土豆.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -898,7 +898,7 @@
     },
     {
       "name": "葱煎豆腐",
-      "path": "/dishes/vegetable_dish/葱煎豆腐.md",
+      "path": "/all-dishes/vegetable_dish/葱煎豆腐.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -906,7 +906,7 @@
     },
     {
       "name": "蒲烧茄子",
-      "path": "/dishes/vegetable_dish/蒲烧茄子.md",
+      "path": "/all-dishes/vegetable_dish/蒲烧茄子.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -914,7 +914,7 @@
     },
     {
       "name": "蚝油生菜",
-      "path": "/dishes/vegetable_dish/蚝油生菜.md",
+      "path": "/all-dishes/vegetable_dish/蚝油生菜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -922,7 +922,7 @@
     },
     {
       "name": "西红柿炒鸡蛋",
-      "path": "/dishes/vegetable_dish/西红柿炒鸡蛋.md",
+      "path": "/all-dishes/vegetable_dish/西红柿炒鸡蛋.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -930,7 +930,7 @@
     },
     {
       "name": "酸辣土豆丝",
-      "path": "/dishes/vegetable_dish/酸辣土豆丝.md",
+      "path": "/all-dishes/vegetable_dish/酸辣土豆丝.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -938,7 +938,7 @@
     },
     {
       "name": "金针菇日本豆腐煲",
-      "path": "/dishes/vegetable_dish/金针菇日本豆腐煲.md",
+      "path": "/all-dishes/vegetable_dish/金针菇日本豆腐煲.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -946,7 +946,7 @@
     },
     {
       "name": "陕北熬豆角",
-      "path": "/dishes/vegetable_dish/陕北熬豆角.md",
+      "path": "/all-dishes/vegetable_dish/陕北熬豆角.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -954,7 +954,7 @@
     },
     {
       "name": "雷椒皮蛋",
-      "path": "/dishes/vegetable_dish/雷椒皮蛋.md",
+      "path": "/all-dishes/vegetable_dish/雷椒皮蛋.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -962,7 +962,7 @@
     },
     {
       "name": "鸡蛋火腿炒黄瓜",
-      "path": "/dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
+      "path": "/all-dishes/vegetable_dish/鸡蛋火腿炒黄瓜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -970,7 +970,7 @@
     },
     {
       "name": "小龙虾",
-      "path": "/dishes/aquatic/小龙虾/小龙虾.md",
+      "path": "/all-dishes/aquatic/小龙虾/小龙虾.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -978,7 +978,7 @@
     },
     {
       "name": "干煎阿根廷红虾",
-      "path": "/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
+      "path": "/all-dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/干煎阿根廷红虾/干煎阿根廷红虾.jpg",
       "level": 3,
@@ -986,7 +986,7 @@
     },
     {
       "name": "油焖大虾",
-      "path": "/dishes/aquatic/油焖大虾/油焖大虾.md",
+      "path": "/all-dishes/aquatic/油焖大虾/油焖大虾.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/油焖大虾/油焖大虾.jpg",
       "level": 4,
@@ -994,7 +994,7 @@
     },
     {
       "name": "烤鱼",
-      "path": "/dishes/aquatic/混合烤鱼/烤鱼.md",
+      "path": "/all-dishes/aquatic/混合烤鱼/烤鱼.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/混合烤鱼/烤鱼.jpg",
       "level": 4,
@@ -1002,7 +1002,7 @@
     },
     {
       "name": "清蒸鲈鱼",
-      "path": "/dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
+      "path": "/all-dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.jpg",
       "level": 3,
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "白灼虾",
-      "path": "/dishes/aquatic/白灼虾/白灼虾.md",
+      "path": "/all-dishes/aquatic/白灼虾/白灼虾.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/白灼虾/白灼虾.webp",
       "level": 2,
@@ -1018,7 +1018,7 @@
     },
     {
       "name": "糖醋鲤鱼",
-      "path": "/dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
+      "path": "/all-dishes/aquatic/糖醋鲤鱼/糖醋鲤鱼.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 4,
@@ -1026,7 +1026,7 @@
     },
     {
       "name": "芥末黄油罗氏虾",
-      "path": "/dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
+      "path": "/all-dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.jpg",
       "level": 3,
@@ -1034,7 +1034,7 @@
     },
     {
       "name": "葱油桂鱼",
-      "path": "/dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
+      "path": "/all-dishes/aquatic/葱油桂鱼/葱油桂鱼.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/葱油桂鱼/葱油桂鱼.jpg",
       "level": 4,
@@ -1042,7 +1042,7 @@
     },
     {
       "name": "葱烧海参",
-      "path": "/dishes/aquatic/葱烧海参/葱烧海参.md",
+      "path": "/all-dishes/aquatic/葱烧海参/葱烧海参.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/葱烧海参/葱烧海参.jpeg",
       "level": 3,
@@ -1050,7 +1050,7 @@
     },
     {
       "name": "蒜蓉虾",
-      "path": "/dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
+      "path": "/all-dishes/aquatic/蒜蓉虾/蒜蓉虾.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 2,
@@ -1058,7 +1058,7 @@
     },
     {
       "name": "蛏抱蛋",
-      "path": "/dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
+      "path": "/all-dishes/aquatic/蛏抱蛋/蛏抱蛋.md",
       "catogory": "aquatic",
       "poster": "",
       "level": 3,
@@ -1066,7 +1066,7 @@
     },
     {
       "name": "香煎翘嘴鱼",
-      "path": "/dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
+      "path": "/all-dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/香煎翘嘴鱼/香煎翘嘴鱼.jpeg",
       "level": 4,
@@ -1074,7 +1074,7 @@
     },
     {
       "name": "鲤鱼炖白菜",
-      "path": "/dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
+      "path": "/all-dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.jpeg",
       "level": 3,
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "鳊鱼炖豆腐",
-      "path": "/dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
+      "path": "/all-dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/鳊鱼炖豆腐/鳊鱼炖豆腐.jpg",
       "level": 3,
@@ -1090,7 +1090,7 @@
     },
     {
       "name": "黄油煎虾",
-      "path": "/dishes/aquatic/黄油煎虾/黄油煎虾.md",
+      "path": "/all-dishes/aquatic/黄油煎虾/黄油煎虾.md",
       "catogory": "aquatic",
       "poster": "/dishes/aquatic/黄油煎虾/黄油煎虾.jpg",
       "level": 3,
@@ -1098,7 +1098,7 @@
     },
     {
       "name": "温泉蛋",
-      "path": "/dishes/breakfast/温泉蛋/温泉蛋.md",
+      "path": "/all-dishes/breakfast/温泉蛋/温泉蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 3,
@@ -1106,7 +1106,7 @@
     },
     {
       "name": "苏格兰蛋",
-      "path": "/dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
+      "path": "/all-dishes/breakfast/苏格兰蛋/苏格兰蛋.md",
       "catogory": "breakfast",
       "poster": "",
       "level": 3,
@@ -1114,7 +1114,7 @@
     },
     {
       "name": "油泼辣子",
-      "path": "/dishes/condiment/油泼辣子/油泼辣子.md",
+      "path": "/all-dishes/condiment/油泼辣子/油泼辣子.md",
       "catogory": "condiment",
       "poster": "/dishes/condiment/油泼辣子/油泼辣子.jpg",
       "level": 3,
@@ -1122,7 +1122,7 @@
     },
     {
       "name": "草莓酱",
-      "path": "/dishes/condiment/草莓酱/草莓酱.md",
+      "path": "/all-dishes/condiment/草莓酱/草莓酱.md",
       "catogory": "condiment",
       "poster": "",
       "level": 2,
@@ -1130,7 +1130,7 @@
     },
     {
       "name": "蔗糖糖浆",
-      "path": "/dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
+      "path": "/all-dishes/condiment/蔗糖糖浆/蔗糖糖浆.md",
       "catogory": "condiment",
       "poster": "",
       "level": 1,
@@ -1138,7 +1138,7 @@
     },
     {
       "name": "反沙芋头",
-      "path": "/dishes/dessert/反沙芋头/反沙芋头.md",
+      "path": "/all-dishes/dessert/反沙芋头/反沙芋头.md",
       "catogory": "dessert",
       "poster": "",
       "level": 3,
@@ -1146,7 +1146,7 @@
     },
     {
       "name": "咖啡椰奶冻",
-      "path": "/dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md",
+      "path": "/all-dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.md",
       "catogory": "dessert",
       "poster": "/dishes/dessert/咖啡椰奶冻/咖啡椰奶冻.png",
       "level": 4,
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "奥利奥冰淇淋",
-      "path": "/dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
+      "path": "/all-dishes/dessert/奥利奥冰淇淋/奥利奥冰淇淋.md",
       "catogory": "dessert",
       "poster": "",
       "level": 3,
@@ -1162,7 +1162,7 @@
     },
     {
       "name": "戚风蛋糕",
-      "path": "/dishes/dessert/戚风蛋糕/戚风蛋糕.md",
+      "path": "/all-dishes/dessert/戚风蛋糕/戚风蛋糕.md",
       "catogory": "dessert",
       "poster": "",
       "level": 5,
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "提拉米苏",
-      "path": "/dishes/dessert/提拉米苏/提拉米苏.md",
+      "path": "/all-dishes/dessert/提拉米苏/提拉米苏.md",
       "catogory": "dessert",
       "poster": "",
       "level": 4,
@@ -1178,7 +1178,7 @@
     },
     {
       "name": "炸鲜奶",
-      "path": "/dishes/dessert/炸鲜奶/炸鲜奶.md",
+      "path": "/all-dishes/dessert/炸鲜奶/炸鲜奶.md",
       "catogory": "dessert",
       "poster": "/dishes/dessert/炸鲜奶/炸鲜奶.jpg",
       "level": 3,
@@ -1186,7 +1186,7 @@
     },
     {
       "name": "烤蛋挞",
-      "path": "/dishes/dessert/烤蛋挞/烤蛋挞.md",
+      "path": "/all-dishes/dessert/烤蛋挞/烤蛋挞.md",
       "catogory": "dessert",
       "poster": "/dishes/dessert/烤蛋挞/烤蛋挞.png",
       "level": 4,
@@ -1194,7 +1194,7 @@
     },
     {
       "name": "玛格丽特饼干",
-      "path": "/dishes/dessert/玛格丽特饼干/玛格丽特饼干.md",
+      "path": "/all-dishes/dessert/玛格丽特饼干/玛格丽特饼干.md",
       "catogory": "dessert",
       "poster": "/dishes/dessert/玛格丽特饼干/玛格丽特饼干.jpg",
       "level": 3,
@@ -1202,7 +1202,7 @@
     },
     {
       "name": "芋泥雪媚娘",
-      "path": "/dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md",
+      "path": "/all-dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md",
       "catogory": "dessert",
       "poster": "",
       "level": 5,
@@ -1210,7 +1210,7 @@
     },
     {
       "name": "英式司康",
-      "path": "/dishes/dessert/英式司康/英式司康.md",
+      "path": "/all-dishes/dessert/英式司康/英式司康.md",
       "catogory": "dessert",
       "poster": "/dishes/dessert/英式司康/英式司康.png",
       "level": 3,
@@ -1218,7 +1218,7 @@
     },
     {
       "name": "草莓冰淇淋",
-      "path": "/dishes/dessert/草莓冰淇淋/草莓冰淇淋.md",
+      "path": "/all-dishes/dessert/草莓冰淇淋/草莓冰淇淋.md",
       "catogory": "dessert",
       "poster": "",
       "level": 2,
@@ -1226,7 +1226,7 @@
     },
     {
       "name": "酸奶意式奶冻",
-      "path": "/dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md",
+      "path": "/all-dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md",
       "catogory": "dessert",
       "poster": "/dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.png",
       "level": 4,
@@ -1234,7 +1234,7 @@
     },
     {
       "name": "雪花酥",
-      "path": "/dishes/dessert/雪花酥/雪花酥.md",
+      "path": "/all-dishes/dessert/雪花酥/雪花酥.md",
       "catogory": "dessert",
       "poster": "",
       "level": 3,
@@ -1242,7 +1242,7 @@
     },
     {
       "name": "魔芋蛋糕",
-      "path": "/dishes/dessert/魔芋蛋糕/魔芋蛋糕.md",
+      "path": "/all-dishes/dessert/魔芋蛋糕/魔芋蛋糕.md",
       "catogory": "dessert",
       "poster": "",
       "level": 4,
@@ -1250,15 +1250,15 @@
     },
     {
       "name": "冰粉",
-      "path": "/dishes/drink/冰粉/冰粉.md",
+      "path": "/all-dishes/drink/冰粉/冰粉.md",
       "catogory": "drink",
-      "poster": "",
+      "poster": "/dishes/drink/冰粉/冰粉.jpg",
       "level": 2,
       "desc": "\n"
     },
     {
       "name": "奇异果菠菜特调",
-      "path": "/dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
+      "path": "/all-dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md",
       "catogory": "drink",
       "poster": "",
       "level": 1,
@@ -1266,7 +1266,7 @@
     },
     {
       "name": "泰国手标红茶",
-      "path": "/dishes/drink/泰国手标红茶/泰国手标红茶.md",
+      "path": "/all-dishes/drink/泰国手标红茶/泰国手标红茶.md",
       "catogory": "drink",
       "poster": "/dishes/drink/泰国手标红茶/泰国手标红茶.jpg",
       "level": 3,
@@ -1274,7 +1274,7 @@
     },
     {
       "name": "百香果橙子特调",
-      "path": "/dishes/drink/百香果橙子特调/百香果橙子特调.md",
+      "path": "/all-dishes/drink/百香果橙子特调/百香果橙子特调.md",
       "catogory": "drink",
       "poster": "",
       "level": 3,
@@ -1282,7 +1282,7 @@
     },
     {
       "name": "砂糖椰子冰沙",
-      "path": "/dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md",
+      "path": "/all-dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md",
       "catogory": "drink",
       "poster": "",
       "level": 1,
@@ -1290,7 +1290,7 @@
     },
     {
       "name": "耙耙柑茶",
-      "path": "/dishes/drink/耙耙柑茶/耙耙柑茶.md",
+      "path": "/all-dishes/drink/耙耙柑茶/耙耙柑茶.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
@@ -1298,7 +1298,7 @@
     },
     {
       "name": "菠萝咖啡特调",
-      "path": "/dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md",
+      "path": "/all-dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md",
       "catogory": "drink",
       "poster": "/dishes/drink/菠萝咖啡特调/菠萝咖啡特调.png",
       "level": 3,
@@ -1306,7 +1306,7 @@
     },
     {
       "name": "酸梅汤",
-      "path": "/dishes/drink/酸梅汤/酸梅汤.md",
+      "path": "/all-dishes/drink/酸梅汤/酸梅汤.md",
       "catogory": "drink",
       "poster": "",
       "level": 4,
@@ -1314,7 +1314,7 @@
     },
     {
       "name": "金汤力",
-      "path": "/dishes/drink/金汤力/金汤力.md",
+      "path": "/all-dishes/drink/金汤力/金汤力.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
@@ -1322,423 +1322,15 @@
     },
     {
       "name": "金菲士",
-      "path": "/dishes/drink/金菲士/金菲士.md",
+      "path": "/all-dishes/drink/金菲士/金菲士.md",
       "catogory": "drink",
       "poster": "",
       "level": 2,
       "desc": "原料"
     },
     {
-      "name": "冬瓜酿肉",
-      "path": "/dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。"
-    },
-    {
-      "name": "凉拌鸡丝",
-      "path": "/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.jpg",
-      "level": 3,
-      "desc": "\n隔离期间的一道快手菜，少油低卡，制作简单，预计制作时间 30 分钟"
-    },
-    {
-      "name": "口水鸡",
-      "path": "/dishes/meat_dish/口水鸡/口水鸡.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/口水鸡/口水鸡.jpg",
-      "level": 3,
-      "desc": "口水鸡（凉菜），炎炎夏日里，热菜难以入口，但又嗜肉如命，\n除了口水鸡，实在想不出更好的适合在夏天吃的肉菜了。\n被红油包裹的鸡肉，红艳鲜亮，冰爽 Q 弹，鲜美而不腻。夏日米饭杀手当之无愧!\n（注：口水鸡做法多样，欢迎补充）"
-    },
-    {
-      "name": "台式卤肉饭",
-      "path": "/dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "\n糖和脂肪是人类快乐的源泉，富含这二者的台式卤肉饭每一口都能带来直击灵魂的满足感。"
-    },
-    {
-      "name": "咖喱肥牛",
-      "path": "/dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/咖喱肥牛/咖喱肥牛.jpg",
-      "level": 4,
-      "desc": "咖喱肥牛美味营养并且下饭，吃多了炒炸菜后再吃个咖喱肥牛相当美滋滋。"
-    },
-    {
-      "name": "啤酒鸭",
-      "path": "/dishes/meat_dish/啤酒鸭/啤酒鸭.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/啤酒鸭/啤酒鸭.jpg",
-      "level": 4,
-      "desc": "啤酒鸭不仅入口鲜香,还带有一股啤酒清香。肉久吃不腻,汤久涮而不淡。风味独特,具有热而不浮,香而不腻的独特口味让人赞口不绝。一般初学者需要 1 小时即可完成。"
-    },
-    {
-      "name": "回锅肉",
-      "path": "/dishes/meat_dish/回锅肉/回锅肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "五花肉"
-    },
-    {
-      "name": "土豆炖排骨",
-      "path": "/dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "肋排"
-    },
-    {
-      "name": "奶酪培根通心粉",
-      "path": "/dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "\n"
-    },
-    {
-      "name": "姜炒鸡",
-      "path": "/dishes/meat_dish/姜炒鸡/姜炒鸡.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/姜炒鸡/姜炒鸡.jpg",
-      "level": 3,
-      "desc": "姜炒鸡是一道湖南口味菜，下饭五颗星，食材平平无奇又十分容易烹制，一学就会。"
-    },
-    {
-      "name": "姜葱捞鸡",
-      "path": "/dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "嫩滑爆汁，白饭杀手，简单易做，"
-    },
-    {
-      "name": "宫保鸡丁",
-      "path": "/dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/宫保鸡丁/宫保鸡丁.jpg",
-      "level": 4,
-      "desc": "老派川菜的简单做法分享"
-    },
-    {
-      "name": "小炒鸡肝",
-      "path": "/dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "一道稍微麻烦的菜。"
-    },
-    {
-      "name": "小炒黄牛肉",
-      "path": "/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.jpg",
-      "level": 4,
-      "desc": "小炒黄牛肉是一道简单易做的湘菜。口味十分劲爆爽口。一般初学者只需要 1 小时即可完成"
-    },
-    {
-      "name": "尖叫牛蛙",
-      "path": "/dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.jpg",
-      "level": 4,
-      "desc": "尖叫牛蛙是一道容易完成的菜。一般初学者只需要 1-2 小时即可完成。该菜品味道鲜美之外，还具有开胃功效，非常适宜食欲不佳的时候做，老少皆宜。（能吃辣最好）"
-    },
-    {
-      "name": "干煸仔鸡",
-      "path": "/dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "干煸仔鸡是一道甜辣口味的川菜，是北京大学食堂赵春月厨师长研发的美食，广受师生喜爱。赵厨师长已将菜谱公开，方便大家自己动手制作，疫情居家下饭必备！"
-    },
-    {
-      "name": "徽派红烧肉",
-      "path": "/dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "徽式红烧肉是一道由五花肉等食材制成的菜肴。"
-    },
-    {
-      "name": "新疆大盘鸡",
-      "path": "/dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "花椒，香叶，香果，干线椒，大蒜，大葱"
-    },
-    {
-      "name": "无骨鸡爪",
-      "path": "/dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/无骨鸡爪/无骨鸡爪.jpg",
-      "level": 5,
-      "desc": "\n"
-    },
-    {
-      "name": "枝竹羊腩煲",
-      "path": "/dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "枝竹羊腩煲是一份老少皆宜，适合冬季暖胃的美食。 此道菜肥而不腻，搭配米饭堪称一绝。一般初学者需 2 个半小时即可完成。"
-    },
-    {
-      "name": "柱候牛腩",
-      "path": "/dishes/meat_dish/柱候牛腩/柱候牛腩.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/柱候牛腩/柱候牛腩.jpeg",
-      "level": 4,
-      "desc": "\n"
-    },
-    {
-      "name": "梅菜扣肉",
-      "path": "/dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "梅菜扣肉造型别致、大方得体，颜色酱红油亮，汤汁黏稠鲜美，扣肉肥而不腻，食之软烂醇香。"
-    },
-    {
-      "name": "水煮牛肉",
-      "path": "/dishes/meat_dish/水煮牛肉/水煮牛肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "麻辣鲜香"
-    },
-    {
-      "name": "湖南家常红烧肉",
-      "path": "/dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.jpeg",
-      "level": 3,
-      "desc": "湖南家常红烧肉，入口软糯，肥而不腻"
-    },
-    {
-      "name": "湘祁米夫鸭",
-      "path": "/dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.jpg",
-      "level": 4,
-      "desc": "湖南两祁地区特色菜品，逢年过节家家桌上有。鸭肉被米粉子包裹，入口咸香回味悠长可解乡愁。"
-    },
-    {
-      "name": "猪皮冻",
-      "path": "/dishes/meat_dish/猪皮冻/猪皮冻.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/猪皮冻/猪皮冻.jpg",
-      "level": 5,
-      "desc": "猪皮冻是一道简单易做的菜。北方人年夜饭餐桌上的“常青树”，晶莹剔透的外表，滑嫩 Q 弹的口感，是不折不扣的超级下酒菜。"
-    },
-    {
-      "name": "瘦肉土豆片",
-      "path": "/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.jpg",
-      "level": 3,
-      "desc": "瘦肉土豆片是一道简单易做的菜。小炒家常菜，方便快速，适合上班族用于带饭必备小炒菜。一般初学者只需要 1 小时即可完成。"
-    },
-    {
-      "name": "糖醋排骨",
-      "path": "/dishes/meat_dish/糖醋排骨/糖醋排骨.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "是糖醋味型中具有代表性的一道大众喜爱的特色传统名菜"
-    },
-    {
-      "name": "红烧猪蹄",
-      "path": "/dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/红烧猪蹄/红烧猪蹄.jpg",
-      "level": 4,
-      "desc": "红烧猪蹄营养丰富，味道香，汤汁浓郁、下饭强。"
-    },
-    {
-      "name": "南派红烧肉",
-      "path": "/dishes/meat_dish/红烧肉/南派红烧肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻"
-    },
-    {
-      "name": "简易红烧肉",
-      "path": "/dishes/meat_dish/红烧肉/简易红烧肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻。建议搭配米饭食用。"
-    },
-    {
-      "name": "羊排焖面",
-      "path": "/dishes/meat_dish/羊排焖面/羊排焖面.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/羊排焖面/羊排焖面.jpg",
-      "level": 4,
-      "desc": "\n羊排焖面是一道硬菜，适合聚会时候大展身手。缺点就是有点花时间，优点就是好吃，而且一道菜补齐人体所需的三大营养物质。"
-    },
-    {
-      "name": "老妈蹄花",
-      "path": "/dishes/meat_dish/老妈蹄花/老妈蹄花.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "红烧猪蹄营养丰富，口感细腻，软烂脱骨，配上酸辣汁简直太香！"
-    },
-    {
-      "name": "老式锅包肉",
-      "path": "/dishes/meat_dish/老式锅包肉/老式锅包肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "锅包肉是东北名菜，光绪年间始创自哈尔滨道台府府尹杜学赢厨师郑兴文之手，去东北餐馆，师傅都会问锅包肉要老式的还是新式的，区别在于酸味来源不同，老式的就是白醋汁，新式的加了番茄酱。"
-    },
-    {
-      "name": "荔枝肉",
-      "path": "/dishes/meat_dish/荔枝肉/荔枝肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "荔枝肉独具闽菜特点，味道酸甜可口。是福州地区比较常见的一道菜肴"
-    },
-    {
-      "name": "荷兰豆炒腊肠",
-      "path": "/dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 2,
-      "desc": "荷兰豆炒腊肠是一道营养丰富，口感清爽，有利于开胃助食，增进食欲的美味菜肴。荷兰豆中富含人体所需的各种营养物质，尤其是含有优质蛋白质，可以提高机体的抗病能力和康复能力。"
-    },
-    {
-      "name": "血浆鸭",
-      "path": "/dishes/meat_dish/血浆鸭/血浆鸭.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "血浆鸭是湖南武冈特色传统名菜，香、脆可口，由于醋血的作用，不仅鸭骨酥而脆，就是姜和辣椒也变得不辣而甜净。一般初学者只需要 2 小时就可以完成。"
-    },
-    {
-      "name": "西红柿土豆炖牛肉",
-      "path": "/dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "西红柿土豆炖牛肉（腩）的特点就是还挺好吃，牛肉是优质蛋白，换成牛腩更好吃。"
-    },
-    {
-      "name": "西红柿牛腩",
-      "path": "/dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 5,
-      "desc": "西红柿牛腩汤汁浓厚酸甜可口，牛肉软绵醇香，搭配米饭绝配。一般初学者需要 90 分钟完成。"
-    },
-    {
-      "name": "酱排骨",
-      "path": "/dishes/meat_dish/酱排骨/酱排骨.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "酱排骨其色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜。"
-    },
-    {
-      "name": "酱牛肉",
-      "path": "/dishes/meat_dish/酱牛肉/酱牛肉.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/酱牛肉/酱牛肉.jpg",
-      "level": 5,
-      "desc": "家常酱牛肉营养丰富，味道香，不论是当作主食还是佐餐都很棒。一般初学者只需要 3 小时即可完成。"
-    },
-    {
-      "name": "醉排骨",
-      "path": "/dishes/meat_dish/醉排骨/醉排骨.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "醉排骨是福建省福州市特色传统名菜"
-    },
-    {
-      "name": "青椒土豆炒肉",
-      "path": "/dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.jpg",
-      "level": 3,
-      "desc": "青椒土豆炒肉是一道荤素搭配的简单炒菜。一般初学者只需要 1 小时即可完成。贼下饭~"
-    },
-    {
-      "name": "香干芹菜炒肉",
-      "path": "/dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.jpg",
-      "level": 3,
-      "desc": "香干芹菜炒肉是一道非常简单的家常菜小炒，据说多吃芹菜对于高血压有很好的缓解作用，加上香干和猪肉一起翻炒，还是很美味的。一般初学者只需要 30 分钟（含配菜时间）即可完成。"
-    },
-    {
-      "name": "香煎五花肉",
-      "path": "/dishes/meat_dish/香煎五花肉/香煎五花肉.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/香煎五花肉/香煎五花肉.jpg",
-      "level": 3,
-      "desc": "香煎五花肉一道简单易上手的菜。五花肉肥而不腻，生菜叶脆爽健康。稍微有下厨经验的人半小时便可制作完毕。"
-    },
-    {
-      "name": "香菇滑鸡",
-      "path": "/dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/香菇滑鸡/香菇滑鸡.jpg",
-      "level": 3,
-      "desc": "大鸡腿"
-    },
-    {
-      "name": "香辣鸡爪煲",
-      "path": "/dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 4,
-      "desc": "香辣鸡爪煲口感 Q 弹，香辣浓郁，回味无穷。"
-    },
-    {
-      "name": "鱼香茄子",
-      "path": "/dishes/meat_dish/鱼香茄子/鱼香茄子.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "这个菜真的超级下饭，当个干饭王吧。"
-    },
-    {
-      "name": "麻婆豆腐",
-      "path": "/dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
-      "catogory": "meat_dish",
-      "poster": "",
-      "level": 3,
-      "desc": "这是参考麻婆豆腐创作的一道菜。富含有铁、钙、磷、镁等人体必需的多种微量元素，最重要的是非常下饭哦～"
-    },
-    {
-      "name": "黑椒牛柳",
-      "path": "/dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/黑椒牛柳/黑椒牛柳.jpg",
-      "level": 4,
-      "desc": "黑椒牛柳是一道简单易做的菜。蔬菜与肉类均衡，富含蛋白质，口味适合大多数人。一般初学者只需要 1 小时以内即可完成。"
-    },
-    {
-      "name": "黔式腊肠娃娃菜",
-      "path": "/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
-      "catogory": "meat_dish",
-      "poster": "/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.jpg",
-      "level": 1,
-      "desc": "黔式腊肠娃娃菜不需要掌握火候，也无需调料，非常适合懒癌的菜。制作时间 15 分钟，口味近似于川菜、湘菜，却是西南菜系中鲜见的不辣菜式，咸鲜可口、南北皆宜。"
-    },
-    {
       "name": "懒人蛋挞",
-      "path": "/dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
+      "path": "/all-dishes/semi-finished/懒人蛋挞/懒人蛋挞.md",
       "catogory": "semi-finished",
       "poster": "/dishes/semi-finished/懒人蛋挞/懒人蛋挞.png",
       "level": 3,
@@ -1746,7 +1338,7 @@
     },
     {
       "name": "炸薯条",
-      "path": "/dishes/semi-finished/炸薯条/炸薯条.md",
+      "path": "/all-dishes/semi-finished/炸薯条/炸薯条.md",
       "catogory": "semi-finished",
       "poster": "/dishes/semi-finished/炸薯条/炸薯条.jpg",
       "level": 2,
@@ -1754,7 +1346,7 @@
     },
     {
       "name": "空气炸锅羊排",
-      "path": "/dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md",
+      "path": "/all-dishes/semi-finished/空气炸锅羊排/空气炸锅羊排.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 3,
@@ -1762,7 +1354,7 @@
     },
     {
       "name": "空气炸锅鸡翅中",
-      "path": "/dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
+      "path": "/all-dishes/semi-finished/空气炸锅鸡翅中/空气炸锅鸡翅中.md",
       "catogory": "semi-finished",
       "poster": "",
       "level": 2,
@@ -1770,15 +1362,423 @@
     },
     {
       "name": "速冻汤圆",
-      "path": "/dishes/semi-finished/速冻汤圆/速冻汤圆.md",
+      "path": "/all-dishes/semi-finished/速冻汤圆/速冻汤圆.md",
       "catogory": "semi-finished",
       "poster": "/dishes/semi-finished/速冻汤圆/速冻汤圆.jpg",
       "level": 1,
       "desc": "速冻汤圆是一道简单易做的菜。一般初学者只需要 6 分钟即可完成。"
     },
     {
+      "name": "冬瓜酿肉",
+      "path": "/all-dishes/meat_dish/冬瓜酿肉/冬瓜酿肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "荤素搭配，鲜嫩爽滑,做法简单。一般 30 分钟。"
+    },
+    {
+      "name": "凉拌鸡丝",
+      "path": "/all-dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.jpg",
+      "level": 3,
+      "desc": "\n隔离期间的一道快手菜，少油低卡，制作简单，预计制作时间 30 分钟"
+    },
+    {
+      "name": "口水鸡",
+      "path": "/all-dishes/meat_dish/口水鸡/口水鸡.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/口水鸡/口水鸡.jpg",
+      "level": 3,
+      "desc": "口水鸡（凉菜），炎炎夏日里，热菜难以入口，但又嗜肉如命，\n除了口水鸡，实在想不出更好的适合在夏天吃的肉菜了。\n被红油包裹的鸡肉，红艳鲜亮，冰爽 Q 弹，鲜美而不腻。夏日米饭杀手当之无愧!\n（注：口水鸡做法多样，欢迎补充）"
+    },
+    {
+      "name": "台式卤肉饭",
+      "path": "/all-dishes/meat_dish/台式卤肉饭/台式卤肉饭.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "\n糖和脂肪是人类快乐的源泉，富含这二者的台式卤肉饭每一口都能带来直击灵魂的满足感。"
+    },
+    {
+      "name": "咖喱肥牛",
+      "path": "/all-dishes/meat_dish/咖喱肥牛/咖喱肥牛.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/咖喱肥牛/咖喱肥牛.jpg",
+      "level": 4,
+      "desc": "咖喱肥牛美味营养并且下饭，吃多了炒炸菜后再吃个咖喱肥牛相当美滋滋。"
+    },
+    {
+      "name": "啤酒鸭",
+      "path": "/all-dishes/meat_dish/啤酒鸭/啤酒鸭.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/啤酒鸭/啤酒鸭.jpg",
+      "level": 4,
+      "desc": "啤酒鸭不仅入口鲜香,还带有一股啤酒清香。肉久吃不腻,汤久涮而不淡。风味独特,具有热而不浮,香而不腻的独特口味让人赞口不绝。一般初学者需要 1 小时即可完成。"
+    },
+    {
+      "name": "回锅肉",
+      "path": "/all-dishes/meat_dish/回锅肉/回锅肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "五花肉"
+    },
+    {
+      "name": "土豆炖排骨",
+      "path": "/all-dishes/meat_dish/土豆炖排骨/土豆炖排骨.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "肋排"
+    },
+    {
+      "name": "奶酪培根通心粉",
+      "path": "/all-dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "\n"
+    },
+    {
+      "name": "姜炒鸡",
+      "path": "/all-dishes/meat_dish/姜炒鸡/姜炒鸡.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/姜炒鸡/姜炒鸡.jpg",
+      "level": 3,
+      "desc": "姜炒鸡是一道湖南口味菜，下饭五颗星，食材平平无奇又十分容易烹制，一学就会。"
+    },
+    {
+      "name": "姜葱捞鸡",
+      "path": "/all-dishes/meat_dish/姜葱捞鸡/姜葱捞鸡.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "嫩滑爆汁，白饭杀手，简单易做，"
+    },
+    {
+      "name": "宫保鸡丁",
+      "path": "/all-dishes/meat_dish/宫保鸡丁/宫保鸡丁.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/宫保鸡丁/宫保鸡丁.jpg",
+      "level": 4,
+      "desc": "老派川菜的简单做法分享"
+    },
+    {
+      "name": "小炒鸡肝",
+      "path": "/all-dishes/meat_dish/小炒鸡肝/小炒鸡肝.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "一道稍微麻烦的菜。"
+    },
+    {
+      "name": "小炒黄牛肉",
+      "path": "/all-dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/小炒黄牛肉/小炒黄牛肉.jpg",
+      "level": 4,
+      "desc": "小炒黄牛肉是一道简单易做的湘菜。口味十分劲爆爽口。一般初学者只需要 1 小时即可完成"
+    },
+    {
+      "name": "尖叫牛蛙",
+      "path": "/all-dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/尖叫牛蛙/尖叫牛蛙.jpg",
+      "level": 4,
+      "desc": "尖叫牛蛙是一道容易完成的菜。一般初学者只需要 1-2 小时即可完成。该菜品味道鲜美之外，还具有开胃功效，非常适宜食欲不佳的时候做，老少皆宜。（能吃辣最好）"
+    },
+    {
+      "name": "干煸仔鸡",
+      "path": "/all-dishes/meat_dish/干煸仔鸡/干煸仔鸡.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "干煸仔鸡是一道甜辣口味的川菜，是北京大学食堂赵春月厨师长研发的美食，广受师生喜爱。赵厨师长已将菜谱公开，方便大家自己动手制作，疫情居家下饭必备！"
+    },
+    {
+      "name": "徽派红烧肉",
+      "path": "/all-dishes/meat_dish/徽派红烧肉/徽派红烧肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "徽式红烧肉是一道由五花肉等食材制成的菜肴。"
+    },
+    {
+      "name": "新疆大盘鸡",
+      "path": "/all-dishes/meat_dish/新疆大盘鸡/新疆大盘鸡.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "花椒，香叶，香果，干线椒，大蒜，大葱"
+    },
+    {
+      "name": "无骨鸡爪",
+      "path": "/all-dishes/meat_dish/无骨鸡爪/无骨鸡爪.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/无骨鸡爪/无骨鸡爪.jpg",
+      "level": 5,
+      "desc": "\n"
+    },
+    {
+      "name": "枝竹羊腩煲",
+      "path": "/all-dishes/meat_dish/枝竹羊腩煲/枝竹羊腩煲.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "枝竹羊腩煲是一份老少皆宜，适合冬季暖胃的美食。 此道菜肥而不腻，搭配米饭堪称一绝。一般初学者需 2 个半小时即可完成。"
+    },
+    {
+      "name": "柱候牛腩",
+      "path": "/all-dishes/meat_dish/柱候牛腩/柱候牛腩.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/柱候牛腩/柱候牛腩.jpeg",
+      "level": 4,
+      "desc": "\n"
+    },
+    {
+      "name": "梅菜扣肉",
+      "path": "/all-dishes/meat_dish/梅菜扣肉/梅菜扣肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "梅菜扣肉造型别致、大方得体，颜色酱红油亮，汤汁黏稠鲜美，扣肉肥而不腻，食之软烂醇香。"
+    },
+    {
+      "name": "水煮牛肉",
+      "path": "/all-dishes/meat_dish/水煮牛肉/水煮牛肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "麻辣鲜香"
+    },
+    {
+      "name": "湖南家常红烧肉",
+      "path": "/all-dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/湖南家常红烧肉/湖南家常红烧肉.jpeg",
+      "level": 3,
+      "desc": "湖南家常红烧肉，入口软糯，肥而不腻"
+    },
+    {
+      "name": "湘祁米夫鸭",
+      "path": "/all-dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/湘祁米夫鸭/湘祁米夫鸭.jpg",
+      "level": 4,
+      "desc": "湖南两祁地区特色菜品，逢年过节家家桌上有。鸭肉被米粉子包裹，入口咸香回味悠长可解乡愁。"
+    },
+    {
+      "name": "猪皮冻",
+      "path": "/all-dishes/meat_dish/猪皮冻/猪皮冻.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/猪皮冻/猪皮冻.jpg",
+      "level": 5,
+      "desc": "猪皮冻是一道简单易做的菜。北方人年夜饭餐桌上的“常青树”，晶莹剔透的外表，滑嫩 Q 弹的口感，是不折不扣的超级下酒菜。"
+    },
+    {
+      "name": "瘦肉土豆片",
+      "path": "/all-dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/瘦肉土豆片/瘦肉土豆片.jpg",
+      "level": 3,
+      "desc": "瘦肉土豆片是一道简单易做的菜。小炒家常菜，方便快速，适合上班族用于带饭必备小炒菜。一般初学者只需要 1 小时即可完成。"
+    },
+    {
+      "name": "糖醋排骨",
+      "path": "/all-dishes/meat_dish/糖醋排骨/糖醋排骨.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "是糖醋味型中具有代表性的一道大众喜爱的特色传统名菜"
+    },
+    {
+      "name": "红烧猪蹄",
+      "path": "/all-dishes/meat_dish/红烧猪蹄/红烧猪蹄.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/红烧猪蹄/红烧猪蹄.jpg",
+      "level": 4,
+      "desc": "红烧猪蹄营养丰富，味道香，汤汁浓郁、下饭强。"
+    },
+    {
+      "name": "南派红烧肉",
+      "path": "/all-dishes/meat_dish/红烧肉/南派红烧肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻"
+    },
+    {
+      "name": "简易红烧肉",
+      "path": "/all-dishes/meat_dish/红烧肉/简易红烧肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "这份红烧肉教程是一道新手不败的菜谱。配着米饭好吃的停不下来，香糯无敌棒色泽诱人肥而不腻。建议搭配米饭食用。"
+    },
+    {
+      "name": "羊排焖面",
+      "path": "/all-dishes/meat_dish/羊排焖面/羊排焖面.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/羊排焖面/羊排焖面.jpg",
+      "level": 4,
+      "desc": "\n羊排焖面是一道硬菜，适合聚会时候大展身手。缺点就是有点花时间，优点就是好吃，而且一道菜补齐人体所需的三大营养物质。"
+    },
+    {
+      "name": "老妈蹄花",
+      "path": "/all-dishes/meat_dish/老妈蹄花/老妈蹄花.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "红烧猪蹄营养丰富，口感细腻，软烂脱骨，配上酸辣汁简直太香！"
+    },
+    {
+      "name": "老式锅包肉",
+      "path": "/all-dishes/meat_dish/老式锅包肉/老式锅包肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "锅包肉是东北名菜，光绪年间始创自哈尔滨道台府府尹杜学赢厨师郑兴文之手，去东北餐馆，师傅都会问锅包肉要老式的还是新式的，区别在于酸味来源不同，老式的就是白醋汁，新式的加了番茄酱。"
+    },
+    {
+      "name": "荔枝肉",
+      "path": "/all-dishes/meat_dish/荔枝肉/荔枝肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "荔枝肉独具闽菜特点，味道酸甜可口。是福州地区比较常见的一道菜肴"
+    },
+    {
+      "name": "荷兰豆炒腊肠",
+      "path": "/all-dishes/meat_dish/荷兰豆炒腊肠/荷兰豆炒腊肠.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 2,
+      "desc": "荷兰豆炒腊肠是一道营养丰富，口感清爽，有利于开胃助食，增进食欲的美味菜肴。荷兰豆中富含人体所需的各种营养物质，尤其是含有优质蛋白质，可以提高机体的抗病能力和康复能力。"
+    },
+    {
+      "name": "血浆鸭",
+      "path": "/all-dishes/meat_dish/血浆鸭/血浆鸭.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "血浆鸭是湖南武冈特色传统名菜，香、脆可口，由于醋血的作用，不仅鸭骨酥而脆，就是姜和辣椒也变得不辣而甜净。一般初学者只需要 2 小时就可以完成。"
+    },
+    {
+      "name": "西红柿土豆炖牛肉",
+      "path": "/all-dishes/meat_dish/西红柿土豆炖牛肉/西红柿土豆炖牛肉.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "西红柿土豆炖牛肉（腩）的特点就是还挺好吃，牛肉是优质蛋白，换成牛腩更好吃。"
+    },
+    {
+      "name": "西红柿牛腩",
+      "path": "/all-dishes/meat_dish/西红柿牛腩/西红柿牛腩.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 5,
+      "desc": "西红柿牛腩汤汁浓厚酸甜可口，牛肉软绵醇香，搭配米饭绝配。一般初学者需要 90 分钟完成。"
+    },
+    {
+      "name": "酱排骨",
+      "path": "/all-dishes/meat_dish/酱排骨/酱排骨.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "酱排骨其色泽酱红，肉质酥烂，骨香浓郁，汁浓味鲜，咸中带甜。"
+    },
+    {
+      "name": "酱牛肉",
+      "path": "/all-dishes/meat_dish/酱牛肉/酱牛肉.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/酱牛肉/酱牛肉.jpg",
+      "level": 5,
+      "desc": "家常酱牛肉营养丰富，味道香，不论是当作主食还是佐餐都很棒。一般初学者只需要 3 小时即可完成。"
+    },
+    {
+      "name": "醉排骨",
+      "path": "/all-dishes/meat_dish/醉排骨/醉排骨.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "醉排骨是福建省福州市特色传统名菜"
+    },
+    {
+      "name": "青椒土豆炒肉",
+      "path": "/all-dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/青椒土豆炒肉/青椒土豆炒肉.jpg",
+      "level": 3,
+      "desc": "青椒土豆炒肉是一道荤素搭配的简单炒菜。一般初学者只需要 1 小时即可完成。贼下饭~"
+    },
+    {
+      "name": "香干芹菜炒肉",
+      "path": "/all-dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/香干芹菜炒肉/香干芹菜炒肉.jpg",
+      "level": 3,
+      "desc": "香干芹菜炒肉是一道非常简单的家常菜小炒，据说多吃芹菜对于高血压有很好的缓解作用，加上香干和猪肉一起翻炒，还是很美味的。一般初学者只需要 30 分钟（含配菜时间）即可完成。"
+    },
+    {
+      "name": "香煎五花肉",
+      "path": "/all-dishes/meat_dish/香煎五花肉/香煎五花肉.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/香煎五花肉/香煎五花肉.jpg",
+      "level": 3,
+      "desc": "香煎五花肉一道简单易上手的菜。五花肉肥而不腻，生菜叶脆爽健康。稍微有下厨经验的人半小时便可制作完毕。"
+    },
+    {
+      "name": "香菇滑鸡",
+      "path": "/all-dishes/meat_dish/香菇滑鸡/香菇滑鸡.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/香菇滑鸡/香菇滑鸡.jpg",
+      "level": 3,
+      "desc": "大鸡腿"
+    },
+    {
+      "name": "香辣鸡爪煲",
+      "path": "/all-dishes/meat_dish/香辣鸡爪煲/香辣鸡爪煲.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 4,
+      "desc": "香辣鸡爪煲口感 Q 弹，香辣浓郁，回味无穷。"
+    },
+    {
+      "name": "鱼香茄子",
+      "path": "/all-dishes/meat_dish/鱼香茄子/鱼香茄子.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "这个菜真的超级下饭，当个干饭王吧。"
+    },
+    {
+      "name": "麻婆豆腐",
+      "path": "/all-dishes/meat_dish/麻婆豆腐/麻婆豆腐.md",
+      "catogory": "meat_dish",
+      "poster": "",
+      "level": 3,
+      "desc": "这是参考麻婆豆腐创作的一道菜。富含有铁、钙、磷、镁等人体必需的多种微量元素，最重要的是非常下饭哦～"
+    },
+    {
+      "name": "黑椒牛柳",
+      "path": "/all-dishes/meat_dish/黑椒牛柳/黑椒牛柳.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/黑椒牛柳/黑椒牛柳.jpg",
+      "level": 4,
+      "desc": "黑椒牛柳是一道简单易做的菜。蔬菜与肉类均衡，富含蛋白质，口味适合大多数人。一般初学者只需要 1 小时以内即可完成。"
+    },
+    {
+      "name": "黔式腊肠娃娃菜",
+      "path": "/all-dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.md",
+      "catogory": "meat_dish",
+      "poster": "/dishes/meat_dish/黔式腊肠娃娃菜/黔式腊肠娃娃菜.jpg",
+      "level": 1,
+      "desc": "黔式腊肠娃娃菜不需要掌握火候，也无需调料，非常适合懒癌的菜。制作时间 15 分钟，口味近似于川菜、湘菜，却是西南菜系中鲜见的不辣菜式，咸鲜可口、南北皆宜。"
+    },
+    {
       "name": "勾芡香菇汤",
-      "path": "/dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
+      "path": "/all-dishes/soup/勾芡香菇汤/勾芡香菇汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 3,
@@ -1786,7 +1786,7 @@
     },
     {
       "name": "排骨苦瓜汤",
-      "path": "/dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
+      "path": "/all-dishes/soup/排骨苦瓜汤/排骨苦瓜汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 4,
@@ -1794,7 +1794,7 @@
     },
     {
       "name": "昂刺鱼豆腐汤",
-      "path": "/dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
+      "path": "/all-dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md",
       "catogory": "soup",
       "poster": "",
       "level": 3,
@@ -1802,7 +1802,7 @@
     },
     {
       "name": "玉米排骨汤",
-      "path": "/dishes/soup/玉米排骨汤/玉米排骨汤.md",
+      "path": "/all-dishes/soup/玉米排骨汤/玉米排骨汤.md",
       "catogory": "soup",
       "poster": "/dishes/soup/玉米排骨汤/玉米排骨汤.jpeg",
       "level": 3,
@@ -1810,7 +1810,7 @@
     },
     {
       "name": "菌菇炖乳鸽",
-      "path": "/dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
+      "path": "/all-dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md",
       "catogory": "soup",
       "poster": "/dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.jpg",
       "level": 4,
@@ -1818,7 +1818,7 @@
     },
     {
       "name": "银耳莲子粥",
-      "path": "/dishes/soup/银耳莲子粥/银耳莲子粥.md",
+      "path": "/all-dishes/soup/银耳莲子粥/银耳莲子粥.md",
       "catogory": "soup",
       "poster": "/dishes/soup/银耳莲子粥/银耳莲子粥.png",
       "level": 4,
@@ -1826,7 +1826,7 @@
     },
     {
       "name": "陈皮排骨汤",
-      "path": "/dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
+      "path": "/all-dishes/soup/陈皮排骨汤/陈皮排骨汤.md",
       "catogory": "soup",
       "poster": "/dishes/soup/陈皮排骨汤/陈皮排骨汤.jpg",
       "level": 3,
@@ -1834,7 +1834,7 @@
     },
     {
       "name": "中式馅饼",
-      "path": "/dishes/staple/中式馅饼/中式馅饼.md",
+      "path": "/all-dishes/staple/中式馅饼/中式馅饼.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1842,7 +1842,7 @@
     },
     {
       "name": "凉粉",
-      "path": "/dishes/staple/凉粉/凉粉.md",
+      "path": "/all-dishes/staple/凉粉/凉粉.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -1850,7 +1850,7 @@
     },
     {
       "name": "基础牛奶面包",
-      "path": "/dishes/staple/基础牛奶面包/基础牛奶面包.md",
+      "path": "/all-dishes/staple/基础牛奶面包/基础牛奶面包.md",
       "catogory": "staple",
       "poster": "",
       "level": 5,
@@ -1858,7 +1858,7 @@
     },
     {
       "name": "微波炉腊肠煲仔饭",
-      "path": "/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
+      "path": "/all-dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md",
       "catogory": "staple",
       "poster": "/dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.png",
       "level": 2,
@@ -1866,7 +1866,7 @@
     },
     {
       "name": "扬州炒饭",
-      "path": "/dishes/staple/扬州炒饭/扬州炒饭.md",
+      "path": "/all-dishes/staple/扬州炒饭/扬州炒饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1874,7 +1874,7 @@
     },
     {
       "name": "披萨饼皮",
-      "path": "/dishes/staple/披萨饼皮/披萨饼皮.md",
+      "path": "/all-dishes/staple/披萨饼皮/披萨饼皮.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1882,7 +1882,7 @@
     },
     {
       "name": "日式咖喱饭",
-      "path": "/dishes/staple/日式咖喱饭/日式咖喱饭.md",
+      "path": "/all-dishes/staple/日式咖喱饭/日式咖喱饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1890,7 +1890,7 @@
     },
     {
       "name": "日式肥牛丼饭",
-      "path": "/dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
+      "path": "/all-dishes/staple/日式肥牛丼饭/日式肥牛丼饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1898,7 +1898,7 @@
     },
     {
       "name": "河南蒸面条",
-      "path": "/dishes/staple/河南蒸面条/河南蒸面条.md",
+      "path": "/all-dishes/staple/河南蒸面条/河南蒸面条.md",
       "catogory": "staple",
       "poster": "/dishes/staple/河南蒸面条/河南蒸面条.png",
       "level": 4,
@@ -1906,7 +1906,7 @@
     },
     {
       "name": "火腿饭团",
-      "path": "/dishes/staple/火腿饭团/火腿饭团.md",
+      "path": "/all-dishes/staple/火腿饭团/火腿饭团.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1914,7 +1914,7 @@
     },
     {
       "name": "炒凉粉",
-      "path": "/dishes/staple/炒凉粉/炒凉粉.md",
+      "path": "/all-dishes/staple/炒凉粉/炒凉粉.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -1922,7 +1922,7 @@
     },
     {
       "name": "炒意大利面",
-      "path": "/dishes/staple/炒意大利面/炒意大利面.md",
+      "path": "/all-dishes/staple/炒意大利面/炒意大利面.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -1930,7 +1930,7 @@
     },
     {
       "name": "烙饼",
-      "path": "/dishes/staple/烙饼/烙饼.md",
+      "path": "/all-dishes/staple/烙饼/烙饼.md",
       "catogory": "staple",
       "poster": "",
       "level": 4,
@@ -1938,7 +1938,7 @@
     },
     {
       "name": "芝麻烧饼",
-      "path": "/dishes/staple/烧饼/芝麻烧饼.md",
+      "path": "/all-dishes/staple/烧饼/芝麻烧饼.md",
       "catogory": "staple",
       "poster": "/dishes/staple/烧饼/芝麻烧饼.jpg",
       "level": 3,
@@ -1946,7 +1946,7 @@
     },
     {
       "name": "空气炸锅照烧鸡饭",
-      "path": "/dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
+      "path": "/all-dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.md",
       "catogory": "staple",
       "poster": "/dishes/staple/空气炸锅照烧鸡饭/空气炸锅照烧鸡饭.jpg",
       "level": 4,
@@ -1954,7 +1954,7 @@
     },
     {
       "name": "煮锅蒸米饭",
-      "path": "/dishes/staple/米饭/煮锅蒸米饭.md",
+      "path": "/all-dishes/staple/米饭/煮锅蒸米饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -1962,7 +1962,7 @@
     },
     {
       "name": "电饭煲蒸米饭",
-      "path": "/dishes/staple/米饭/电饭煲蒸米饭.md",
+      "path": "/all-dishes/staple/米饭/电饭煲蒸米饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 1,
@@ -1970,7 +1970,7 @@
     },
     {
       "name": "老友猪肉粉",
-      "path": "/dishes/staple/老友猪肉粉/老友猪肉粉.md",
+      "path": "/all-dishes/staple/老友猪肉粉/老友猪肉粉.md",
       "catogory": "staple",
       "poster": "/dishes/staple/老友猪肉粉/老友猪肉粉.jpg",
       "level": 3,
@@ -1978,7 +1978,7 @@
     },
     {
       "name": "茄子肉煎饼",
-      "path": "/dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
+      "path": "/all-dishes/staple/茄子肉煎饼/茄子肉煎饼.md",
       "catogory": "staple",
       "poster": "/dishes/staple/茄子肉煎饼/茄子肉煎饼.jpg",
       "level": 3,
@@ -1986,7 +1986,7 @@
     },
     {
       "name": "西红柿鸡蛋挂面",
-      "path": "/dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
+      "path": "/all-dishes/staple/西红柿鸡蛋挂面/西红柿鸡蛋挂面.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -1994,7 +1994,7 @@
     },
     {
       "name": "豆角焖面",
-      "path": "/dishes/staple/豆角焖面/豆角焖面.md",
+      "path": "/all-dishes/staple/豆角焖面/豆角焖面.md",
       "catogory": "staple",
       "poster": "",
       "level": 3,
@@ -2002,7 +2002,7 @@
     },
     {
       "name": "酱拌荞麦面",
-      "path": "/dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
+      "path": "/all-dishes/staple/酱拌荞麦面/酱拌荞麦面.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -2010,7 +2010,7 @@
     },
     {
       "name": "韩式拌饭",
-      "path": "/dishes/staple/韩式拌饭/韩式拌饭.md",
+      "path": "/all-dishes/staple/韩式拌饭/韩式拌饭.md",
       "catogory": "staple",
       "poster": "/dishes/staple/韩式拌饭/韩式拌饭.png",
       "level": 3,
@@ -2018,7 +2018,7 @@
     },
     {
       "name": "鲣鱼海苔玉米饭",
-      "path": "/dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
+      "path": "/all-dishes/staple/鲣鱼海苔玉米饭/鲣鱼海苔玉米饭.md",
       "catogory": "staple",
       "poster": "",
       "level": 2,
@@ -2026,7 +2026,7 @@
     },
     {
       "name": "示例菜",
-      "path": "/dishes/template/示例菜/示例菜.md",
+      "path": "/all-dishes/template/示例菜/示例菜.md",
       "catogory": "template",
       "poster": "/dishes/template/示例菜/示例菜.jpg",
       "level": 4,
@@ -2034,7 +2034,7 @@
     },
     {
       "name": "上汤娃娃菜",
-      "path": "/dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
+      "path": "/all-dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/上汤娃娃菜/上汤娃娃菜.png",
       "level": 3,
@@ -2042,7 +2042,7 @@
     },
     {
       "name": "凉拌木耳",
-      "path": "/dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
+      "path": "/all-dishes/vegetable_dish/凉拌木耳/凉拌木耳.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2050,7 +2050,7 @@
     },
     {
       "name": "凉拌莴笋",
-      "path": "/dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
+      "path": "/all-dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2058,7 +2058,7 @@
     },
     {
       "name": "包菜炒鸡蛋粉丝",
-      "path": "/dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
+      "path": "/all-dishes/vegetable_dish/包菜炒鸡蛋粉丝/包菜炒鸡蛋粉丝.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2066,7 +2066,7 @@
     },
     {
       "name": "小炒藕丁",
-      "path": "/dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
+      "path": "/all-dishes/vegetable_dish/小炒藕丁/小炒藕丁.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/小炒藕丁/小炒藕丁.jpg",
       "level": 3,
@@ -2074,7 +2074,7 @@
     },
     {
       "name": "干锅花菜",
-      "path": "/dishes/vegetable_dish/干锅花菜/干锅花菜.md",
+      "path": "/all-dishes/vegetable_dish/干锅花菜/干锅花菜.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/干锅花菜/干锅花菜.jpg",
       "level": 3,
@@ -2082,7 +2082,7 @@
     },
     {
       "name": "手撕包菜",
-      "path": "/dishes/vegetable_dish/手撕包菜/手撕包菜.md",
+      "path": "/all-dishes/vegetable_dish/手撕包菜/手撕包菜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2090,7 +2090,7 @@
     },
     {
       "name": "拔丝土豆",
-      "path": "/dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
+      "path": "/all-dishes/vegetable_dish/拔丝土豆/拔丝土豆.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2098,7 +2098,7 @@
     },
     {
       "name": "椒盐玉米",
-      "path": "/dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
+      "path": "/all-dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/椒盐玉米/椒盐玉米.jpeg",
       "level": 3,
@@ -2106,7 +2106,7 @@
     },
     {
       "name": "榄菜肉末四季豆",
-      "path": "/dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
+      "path": "/all-dishes/vegetable_dish/榄菜肉末四季豆/榄菜肉末四季豆.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2114,7 +2114,7 @@
     },
     {
       "name": "洋葱炒鸡蛋",
-      "path": "/dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
+      "path": "/all-dishes/vegetable_dish/洋葱炒鸡蛋/洋葱炒鸡蛋.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2122,7 +2122,7 @@
     },
     {
       "name": "炒滑蛋",
-      "path": "/dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
+      "path": "/all-dishes/vegetable_dish/炒滑蛋/炒滑蛋.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/炒滑蛋/炒滑蛋.jpg",
       "level": 1,
@@ -2130,7 +2130,7 @@
     },
     {
       "name": "烤茄子",
-      "path": "/dishes/vegetable_dish/烤茄子/烤茄子.md",
+      "path": "/all-dishes/vegetable_dish/烤茄子/烤茄子.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/烤茄子/烤茄子.jpg",
       "level": 3,
@@ -2138,7 +2138,7 @@
     },
     {
       "name": "白灼菜心",
-      "path": "/dishes/vegetable_dish/白灼菜心/白灼菜心.md",
+      "path": "/all-dishes/vegetable_dish/白灼菜心/白灼菜心.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/白灼菜心/白灼菜心.jpg",
       "level": 2,
@@ -2146,7 +2146,7 @@
     },
     {
       "name": "糖拌西红柿",
-      "path": "/dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
+      "path": "/all-dishes/vegetable_dish/糖拌西红柿/糖拌西红柿.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2154,7 +2154,7 @@
     },
     {
       "name": "红烧冬瓜",
-      "path": "/dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
+      "path": "/all-dishes/vegetable_dish/红烧冬瓜/红烧冬瓜.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2162,7 +2162,7 @@
     },
     {
       "name": "芹菜拌茶树菇",
-      "path": "/dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
+      "path": "/all-dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.jpg",
       "level": 2,
@@ -2170,7 +2170,7 @@
     },
     {
       "name": "茭白炒肉",
-      "path": "/dishes/vegetable_dish/茭白炒肉/茭白炒肉.md",
+      "path": "/all-dishes/vegetable_dish/茭白炒肉/茭白炒肉.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2178,7 +2178,7 @@
     },
     {
       "name": "莴笋叶煎饼",
-      "path": "/dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
+      "path": "/all-dishes/vegetable_dish/莴笋叶煎饼/莴笋叶煎饼.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2186,7 +2186,7 @@
     },
     {
       "name": "菠菜炒鸡蛋",
-      "path": "/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
+      "path": "/all-dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/菠菜炒鸡蛋/菠菜炒鸡蛋.jpg",
       "level": 2,
@@ -2194,7 +2194,7 @@
     },
     {
       "name": "虎皮青椒",
-      "path": "/dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
+      "path": "/all-dishes/vegetable_dish/虎皮青椒/虎皮青椒.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/虎皮青椒/虎皮青椒.jpg",
       "level": 3,
@@ -2202,7 +2202,7 @@
     },
     {
       "name": "蚝油三鲜菇",
-      "path": "/dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
+      "path": "/all-dishes/vegetable_dish/蚝油三鲜菇/蚝油三鲜菇.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2210,7 +2210,7 @@
     },
     {
       "name": "西红柿豆腐汤羹",
-      "path": "/dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
+      "path": "/all-dishes/vegetable_dish/西红柿豆腐汤羹/西红柿豆腐汤羹.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2218,7 +2218,7 @@
     },
     {
       "name": "西葫芦炒鸡蛋",
-      "path": "/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
+      "path": "/all-dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/西葫芦炒鸡蛋/西葫芦炒鸡蛋.jpeg",
       "level": 2,
@@ -2226,7 +2226,7 @@
     },
     {
       "name": "话梅煮毛豆",
-      "path": "/dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
+      "path": "/all-dishes/vegetable_dish/话梅煮毛豆/话梅煮毛豆.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 2,
@@ -2234,7 +2234,7 @@
     },
     {
       "name": "微波炉鸡蛋羹",
-      "path": "/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+      "path": "/all-dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",
       "level": 2,
@@ -2242,7 +2242,7 @@
     },
     {
       "name": "蒸箱鸡蛋羹",
-      "path": "/dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
+      "path": "/all-dishes/vegetable_dish/鸡蛋羹/蒸箱鸡蛋羹.md",
       "catogory": "vegetable_dish",
       "poster": "",
       "level": 3,
@@ -2250,7 +2250,7 @@
     },
     {
       "name": "鸡蛋羹",
-      "path": "/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+      "path": "/all-dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
       "catogory": "vegetable_dish",
       "poster": "/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
       "level": 2,
@@ -2262,8 +2262,8 @@
     "breakfast",
     "condiment",
     "drink",
-    "meat_dish",
     "semi-finished",
+    "meat_dish",
     "soup",
     "staple",
     "vegetable_dish",
