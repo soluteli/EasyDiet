@@ -10,7 +10,7 @@ import {
   Box,
   Experimental_CssVarsProvider as CssVarsProvider,
 } from '@mui/material';
-import { BottomNavBar } from '@/components/Nav';
+import { BottomNavBar } from '@/components/BottomNavBar';
 import theme from '@/config/theme';
 
 export default function Layout() {
