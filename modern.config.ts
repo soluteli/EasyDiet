@@ -5,6 +5,16 @@ import { appTools, defineConfig } from '@modern-js/app-tools';
 export default defineConfig(async () => {
   const UnoCSS = await import('@unocss/webpack');
   return {
+    output: {
+      distPath: {
+        js: '',
+        css: '',
+        html: '',
+      },
+    },
+    html: {
+      disableHtmlFolder: true,
+    },
     runtime: {
       router: true,
     },

@@ -25,8 +25,8 @@ async function generateDishesList() {
       extglob: true,
     });
     const poster = (Array.isArray(posters) ? posters[0] || '' : '').replace(
-      'HOWTOCOOK',
-      '',
+      'HOWTOCOOK/dishes',
+      '/public/all-dishes',
     );
 
     const otherProperties = await extractDish(path);
@@ -34,7 +34,7 @@ async function generateDishesList() {
     // 生成 dishes list, 包含主 name，desc，level，category
     return {
       name,
-      path: path.replace('HOWTOCOOK/dishes', '/all-dishes'),
+      path: path.replace('HOWTOCOOK/dishes', '/public/all-dishes'),
       catogory,
       poster,
       ...otherProperties,
