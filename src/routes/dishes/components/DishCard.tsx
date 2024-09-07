@@ -1,5 +1,4 @@
 import {
-  Button,
   Card,
   CardActions,
   CardContent,
@@ -38,12 +37,9 @@ export default function DishCard(props: IDishCardProps) {
         </Typography>
       </CardContent>
       <CardActions disableSpacing>
-        <IconButton aria-label="add to favorites">
+        <IconButton sx={{ marginLeft: 'auto' }} aria-label="add to favorites">
           <FavoriteIcon />
         </IconButton>
-        <Button sx={{ marginLeft: 'auto' }} size="small">
-          Learn More
-        </Button>
       </CardActions>
     </Card>
   );
