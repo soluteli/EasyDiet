@@ -1,8 +1,13 @@
-import { defineConfig, presetUno } from 'unocss';
+import { defineConfig, presetUno, presetTypography } from 'unocss';
 
 export default defineConfig({
   content: {
     filesystem: ['./src/**/*.{html,js,ts,jsx,tsx}'],
   },
-  presets: [presetUno()],
+  presets: [
+    presetUno(),
+    presetTypography({
+      cssExtend: {},
+    }),
+  ],
 });

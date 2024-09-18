@@ -12,14 +12,16 @@ import { CategoryNameMap } from '@/config/constants';
 
 interface IDishCardProps {
   dish: IDish;
+  onClick?: (f: IDish) => void;
 }
 
 export default function DishCard(props: IDishCardProps) {
   const {
     dish: { name, poster, desc, catogory },
+    onClick,
   } = props;
   return (
-    <Card>
+    <Card onClick={() => onClick?.(props.dish)}>
       {poster ? (
         <CardMedia component="img" height="194" image={poster} alt={name} />
       ) : null}

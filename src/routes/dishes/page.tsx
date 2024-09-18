@@ -1,12 +1,14 @@
 import { ChangeEvent, useState } from 'react';
 import { Box, Tab, Tabs, OutlinedInput, InputAdornment } from '@mui/material';
 import { Search, HighlightOffOutlined } from '@mui/icons-material';
+import { useNavigate } from '@modern-js/runtime/router';
 import DishCard from './components/DishCard';
 import { IDish } from '@/types/dish';
 import dishesData from '@/config/dishesData.json';
 import { CategoryNameMap } from '@/config/constants';
 
 export default function DishesPage() {
+  const navigate = useNavigate();
   const [tag, setTag] = useState('');
   const [keyword, setKeyword] = useState('');
 
@@ -23,6 +25,10 @@ export default function DishesPage() {
 
   const handleClear = () => {
     setKeyword('');
+  };
+
+  const handleClick = (dish: IDish) => {
+    navigate(`/dish/${dish.name}`);
   };
 
   return (
@@ -76,7 +82,7 @@ export default function DishesPage() {
           {dishListData.map(item => {
             return (
               <Box sx={{ mb: 2 }} key={item.name}>
-                <DishCard dish={item as IDish} />
+                <DishCard dish={item as IDish} onClick={handleClick} />
               </Box>
             );
           })}
