@@ -11,3 +11,5 @@ declare module '@mui/material/styles' {
     desktop: false;
   }
 }
+
+declare module 'path-browserify';
