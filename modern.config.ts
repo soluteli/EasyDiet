@@ -1,4 +1,3 @@
-// import PostCSSUnoCSS from '@unocss/postcss';
 import { appTools, defineConfig } from '@modern-js/app-tools';
 
 // https://modernjs.dev/en/configure/app/usage
@@ -24,11 +23,15 @@ export default defineConfig(async () => {
       }),
     ],
     tools: {
-      // postcss: opts => {
-      //   opts?.postcssOptions?.plugins?.push(PostCSSUnoCSS())
-      // },
       webpackChain: async chain => {
         chain.plugin('unocss').use(UnoCSS.default());
+      },
+      htmlPlugin(config, { entryName }) {
+        if (process.env.NODE_ENV === 'production') {
+          if (entryName === 'main') {
+            config.filename = `index.html`;
+          }
+        }
       },
     },
   };
