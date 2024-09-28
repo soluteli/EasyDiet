@@ -43,7 +43,9 @@ For more information, see the [Modern.js documentation](https://modernjs.dev/en)
 [Git subtree 用法与常见问题分析](https://zhuanlan.zhihu.com/p/253148857)
 
 ## Tech Stack
-
+- [Modern.js](https://modernjs.dev/guides/get-started/introduction.html)
+- [tailwindcss](https://tailwindcss.com/docs/configuration)
+- [material-ui](https://mui.com/material-ui/getting-started)
 
 
 ## Deploy
@@ -51,5 +53,4 @@ For more information, see the [Modern.js documentation](https://modernjs.dev/en)
 - [CloudFare Workers Free](https://www.cloudflare.com/zh-cn/plans/developer-platform/)
 - [CloudFare 环境变量](https://developers.cloudflare.com/pages/configuration/build-image/#supported-languages-and-tools)
 - [redirects](https://developers.cloudflare.com/pages/configuration/redirects/)
-
-
+- [Cloudflare Workers KV](https://developers.cloudflare.com/kv/)
