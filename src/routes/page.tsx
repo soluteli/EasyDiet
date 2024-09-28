@@ -1,5 +1,4 @@
 import { useEffect } from 'react';
-import './index.css';
 
 import { useNavigate } from '@modern-js/runtime/router';
 

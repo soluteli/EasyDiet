@@ -31,26 +31,23 @@ export default function DishDetail() {
   };
 
   return (
-    <Box sx={{ padding: 2 }} className="flex flex-col h-100%">
-      <Box
-        component="article"
-        className="overflow-y-auto text-base prose prose-truegray xl:text-xl"
-      >
-        <Markdown
-          options={{
-            overrides: {
-              a: {
-                component: Link,
-              },
-              img: {
-                component: Image,
-              },
+    <Box sx={{ padding: 2 }} className="flex flex-col h-full overflow-y-auto">
+      <Markdown
+        className="text-base prose prose-neutral xl:prose-xl"
+        options={{
+          wrapper: 'article',
+          overrides: {
+            a: {
+              component: Link,
             },
-          }}
-        >
-          {data}
-        </Markdown>
-      </Box>
+            img: {
+              component: Image,
+            },
+          },
+        }}
+      >
+        {data}
+      </Markdown>
     </Box>
   );
 }

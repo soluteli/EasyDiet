@@ -32,7 +32,7 @@ export default function DishesPage() {
   };
 
   return (
-    <Box sx={{ padding: 2 }} className="flex flex-col h-100%">
+    <Box sx={{ padding: 2 }} className="flex flex-col h-full">
       <Box>
         <OutlinedInput
           fullWidth
@@ -77,8 +77,8 @@ export default function DishesPage() {
           );
         })}
       </Tabs>
-      <Box className="flex-1 position-relative" key={tag}>
-        <Box className="pos-absolute left-0 top-0 right-0 bottom-0 overflow-y-auto">
+      <Box className="flex-1 relative" key={tag}>
+        <Box className="absolute left-0 top-0 right-0 bottom-0 overflow-y-auto">
           {dishListData.map(item => {
             return (
               <Box sx={{ mb: 2 }} key={item.name}>
